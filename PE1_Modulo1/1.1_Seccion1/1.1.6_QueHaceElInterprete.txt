@@ -1,0 +1,8 @@
+
+Imaginemos que has escrito un programa, que ahora existe como un archivo de computadora, usualmente en forma de código fuente en un archivo de texto simple. Para que este código se ejecute, debes invocar al intérprete, que lee el código de arriba a abajo y de izquierda a derecha, verificando su corrección según los aspectos de alfabeto, léxico, sintaxis y semántica.
+
+Si el intérprete detecta un error, detiene inmediatamente el proceso y proporciona un mensaje de error que indica la ubicación del problema. Sin embargo, estos mensajes pueden no reflejar completamente las intenciones del programador, ya que el error puede derivarse de una parte previa del código que afecta a su uso posterior.
+
+Cada línea del código generalmente se ejecuta por separado, y el ciclo de "leer-verificar-ejecutar" se repite varias veces, lo que puede resultar en la ejecución exitosa de partes significativas del código antes de encontrar un error.
+
+A menudo se cuestiona cuál método es mejor: el modelo de "compilación" o el modelo de "interpretación". Ambos tienen ventajas y desventajas, y su utilidad depende del contexto y de las necesidades específicas del desarrollo de software. No existe una respuesta clara al respecto, ya que ambos modelos persisten debido a sus respectivas ventajas en distintos escenarios de programación.

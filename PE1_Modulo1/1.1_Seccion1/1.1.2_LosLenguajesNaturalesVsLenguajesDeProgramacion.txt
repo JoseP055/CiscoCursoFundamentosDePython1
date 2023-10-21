@@ -1,0 +1,6 @@
+
+Un lenguaje es un medio y herramienta para expresar y registrar pensamientos, que se manifiesta de diversas formas, incluyendo el lenguaje corporal y la comunicación verbal. Además de los lenguajes humanos, las computadoras tienen su propio lenguaje, conocido como lenguaje máquina, que es primitivo y se basa en conjuntos de comandos simples predefinidos.
+
+Las computadoras, a pesar de su sofisticación técnica, carecen de inteligencia y operan mediante un conjunto limitado de instrucciones que forman una lista de instrucciones (IL). Los diferentes tipos de computadoras varían en el tamaño y contenido de sus IL, y los lenguajes máquina son desarrollados por humanos.
+
+Mientras que las computadoras no pueden generar nuevos lenguajes, los lenguajes naturales humanos continúan evolucionando con la creación y desaparición de palabras todos los días. Estos lenguajes reflejan la complejidad y la naturaleza cambiante de la comunicación humana, en contraste con la simplicidad y rigidez del lenguaje de las máquinas.

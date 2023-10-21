@@ -1,0 +1,5 @@
+A pesar de la creciente popularidad de Python, todavía existen algunos nichos en los que Python está ausente o rara vez se ve:
+
+Programación de bajo nivel (a veces llamada programación "cercana al metal"): si deseas implementar un controlador o motor gráfico extremadamente efectivo, no se usaría Python.
+
+Aplicaciones para dispositivos móviles: este territorio aún está a la espera de ser conquistado por Python, lo más probable es que suceda algún día.

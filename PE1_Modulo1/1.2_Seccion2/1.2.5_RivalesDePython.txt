@@ -1,0 +1,10 @@
+Python tiene dos competidores directos, con propiedades y predisposiciones comparables. Estos son:
+
+Perl - un lenguaje de scripting originalmente escrito por Larry Wall.
+Ruby - un lenguaje de scripting originalmente escrito por Yukihiro Matsumoto.
+
+El primero es más tradicional, más conservador que Python, y se parece a algunos de los buenos lenguajes antiguos derivados del lenguaje de programación C clásico.
+
+En contraste, este último es más innovador y está más lleno de ideas nuevas. Python se encuentra en algún lugar entre estas dos creaciones.
+
+Internet está lleno de foros con discusiones infinitas sobre la superioridad de uno de estos tres sobre los otros, por si deseas obtener más información sobre cada uno de ellos.

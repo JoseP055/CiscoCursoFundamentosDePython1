@@ -1,0 +1,5 @@
+El lenguaje de máquina, o IL, sirve como el alfabeto básico de las computadoras, pero su simplicidad dificulta la comunicación con los humanos. Para superar esta brecha, se necesitan lenguajes de programación de alto nivel, que actúan como un puente entre los lenguajes de máquina y los humanos.
+
+Estos lenguajes de programación de alto nivel son más complejos que el lenguaje de máquina, pero más simples que los lenguajes naturales. Utilizan símbolos y convenciones legibles para los humanos, lo que permite la expresión de comandos más complejos que los posibles con IL.
+
+Un programa escrito en un lenguaje de alto nivel se conoce como código fuente, a diferencia del código máquina que ejecutan las computadoras. El archivo que contiene este código se llama archivo fuente. Este enfoque ayuda a los programadores a comunicar instrucciones de manera más clara y eficiente a las computadoras, facilitando así el desarrollo de software.

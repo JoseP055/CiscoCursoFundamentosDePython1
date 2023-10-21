@@ -1,0 +1,94 @@
+Pregunta 1
+
+¿Qué es el código máquina?
+
+Un lenguaje de programación de bajo nivel que consiste en dígitos/bits binarios que la computadora lee y entiende
+Un lenguaje de programación de alto nivel que consta de listas de instrucciones que los humanos pueden leer y comprender.
+Un lenguaje de programación de bajo nivel que consta de dígitos hexadecimales que forman instrucciones de lenguaje de alto nivel.
+Un lenguaje de programación de nivel medio que consiste en el código ensamblador diseñado para el procesador de la computadora.
+
+Pregunta 2
+
+¿Cuáles son los cuatro elementos fundamentales que componen un lenguaje?
+
+Un alfabeto, fonética, fonología y semántica
+Un alfabeto, un léxico, una sintaxis y una semántica
+Un alfabeto, un léxico, fonética y semántica
+Un alfabeto, morfología, fonética y semántica
+
+Pregunta 3
+
+¿Cómo se llama a un archivo que contiene un programa escrito en un lenguaje de programación de alto nivel?
+
+Un archivo de destino
+Un archivo fuente
+Un archivo de código
+Un archivo de máquina
+
+Pregunta 4
+Pregunta de opción múltiple
+¿Qué es cierto sobre la compilación? (Selecciona dos respuestas)
+
+Tiende a ser más rápida que la interpretación
+Tiende a ser más lenta que la interpretación
+El código se convierte directamente en código máquina ejecutable por el procesador
+Tanto el programador como el usuario final deben tener el compilador para ejecutar el código
+
+Pregunta 5
+
+¿Cuál es la mejor definición de un script?
+
+Es un mensaje de error generado por el intérprete
+Es un archivo de texto que contiene instrucciones que componen un programa de Python
+Es un mensaje de error generado por el compilador
+Es un archivo de texto que contiene secuencias de ceros y unos
+
+Pregunta 6
+Selecciona las afirmaciones que sean verdaderas. (Selecciona dos respuestas)
+
+Python 3 es retrocompatible con Python 2
+Python es gratuito, de código abierto y multiplataforma
+Python es una buena opción para la programación de bajo nivel, por ejemplo, cuando se desea implementar un controlador
+Python es una buena opción para crear y ejecutar pruebas para aplicaciones
+
+Pregunta 7
+¿Qué es CPython?
+
+Es un lenguaje de programación que es un superconjunto de Python, diseñado para producir un rendimiento similar al de C con código escrito en Python
+Es la implementación de referencia predeterminada de Python, escrita en el lenguaje C
+Es un lenguaje de programación que es un superconjunto del lenguaje C, diseñado para producir un rendimiento similar a Python con código escrito en C
+Es la implementación de referencia predeterminada del lenguaje C, escrito en Python
+
+Pregunta 8
+¿Cómo se llama un intérprete de línea de comandos que te permite interactuar con tu sistema operativo y ejecutar comandos y scripts de Python?
+
+Jython
+Una consola
+Un compilador
+Un editor
+
+Pregunta 9
+¿Cuál es el comportamiento esperado del siguiente programa?
+
+print("¡Hola!")
+
+El programa mostrará ¡Hola! en la pantalla
+
+El programa generará un mensaje de error en la pantalla
+
+El programa mostrará ("¡Hola!") en la pantalla
+
+El programa mostrará "¡Hola!" en la pantalla
+
+Pregunta 10
+¿Cuál es el comportamiento esperado del siguiente programa?
+
+prin("¡Adiós!")
+
+El programa mostrará ("¡Adiós!") en la pantalla
+
+El programa mostrará "¡Adiós!" en la pantalla
+
+El programa generará un mensaje de error en la pantalla
+
+El programa mostrará ¡Adiós! en la pantalla"

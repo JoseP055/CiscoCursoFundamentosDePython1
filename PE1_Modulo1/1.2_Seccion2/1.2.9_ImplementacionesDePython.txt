@@ -1,0 +1,9 @@
+Python, un lenguaje de programación popular, se presenta en múltiples implementaciones, incluyendo Python 2 y Python 3.
+
+La implementación más común, CPython, ha sido mantenida por la Python Software Foundation (PSF) y sigue los estándares establecidos por ella. Otras implementaciones notables son Cython, que traduce automáticamente el código de Python a "C" para mejorar la eficiencia, y Jython, un Python escrito en Java, diseñado para integrarse con la infraestructura Java existente.
+
+PyPy, otro entorno de Python, traduce su código fuente a "C" antes de su ejecución, lo que facilita la verificación de nuevas características. 
+
+MicroPython, una implementación optimizada de Python 3, está diseñada para ejecutarse en microcontroladores y ha dado origen a CircuitPython, otro lenguaje de programación de código abierto para microcontroladores.
+
+Aunque hay múltiples implementaciones de Python, este curso se centrará principalmente en CPython.

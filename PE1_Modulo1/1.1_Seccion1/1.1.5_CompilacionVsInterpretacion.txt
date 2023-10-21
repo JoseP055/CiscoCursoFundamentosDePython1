@@ -1,0 +1,9 @@
+La programación informática implica componer elementos de un lenguaje de programación en un orden específico para lograr un efecto deseado, dependiendo de la imaginación y la experiencia del programador. La correcta composición implica aspectos como la adecuación al alfabeto, el dominio léxico, la obediencia a las reglas sintácticas y la coherencia semántica.
+
+Una vez escrito el programa, se requiere su traducción al lenguaje de máquina para su ejecución. Esto se puede lograr a través de dos métodos principales:
+
+Compilación: el programa fuente se traduce una vez en un archivo ejecutable, lo que facilita su distribución. El proceso de traducción es realizado por un compilador.
+
+Interpretación: el programa se traduce cada vez que se ejecuta, lo que implica que el código fuente no puede ser distribuido solo; el usuario final también necesita el intérprete para ejecutarlo.
+
+El diseño de un lenguaje de programación se basa a menudo en si se puede compilar o interpretar, con pocos lenguajes capaces de ambas formas. Los constructores de lenguajes consideran cuidadosamente esta distinción al diseñar un lenguaje de programación en particular.

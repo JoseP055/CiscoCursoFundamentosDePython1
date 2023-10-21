@@ -1,0 +1,23 @@
+El proceso de edición y ejecución de código en IDLE te permite experimentar y comprender mejor los errores de programación. A continuación se detalla cómo utilizar el entorno IDLE para escribir y ejecutar tu código:
+
+1- Ejecuta IDLE y utiliza la opción "File" y "Open" para abrir un archivo previamente guardado.
+
+2- Al agregar y eliminar paréntesis de cierre en el código, IDLE resalta el texto contenido en el par de paréntesis correspondientes, lo que ayuda a recordar colocarlos en pares.
+
+3- Al introducir un error de sintaxis, IDLE impide la ejecución del código y muestra un mensaje de error detallado.
+
+4- Comprende cómo los mensajes de error pueden variar según la naturaleza del error y la etapa en la que se detecta el error.
+
+5- Aprende a utilizar el traceback para identificar la ruta a través de diferentes partes del código y localizar el error en el archivo.
+Esto se debe a que la naturaleza del error es diferente y el error se descubre en una etapa diferente de interpretación.
+
+La ventana del editor no proporciona ninguna información útil sobre el error, pero las ventanas de la consola podrían.
+
+El mensaje (en rojo) muestra (en las líneas siguientes):
+
+- El traceback (que es la ruta que recorre el código a través de diferentes partes del programa; puedes ignorarlo por ahora, ya que está vacío en un código tan simple) ;
+- La ubicación del error (el nombre del archivo que contiene el error, el número de línea y el nombre del módulo); nota: el número puede ser engañoso, ya que Python suele mostrar el lugar donde notó por primera vez los efectos del error, no necesariamente el error en sí;
+- El contenido de la línea errónea; nota: la ventana del editor de IDLE no muestra números de línea, pero muestra la ubicación actual del cursor en la esquina inferior derecha; utilízalo para localizar la línea errónea en un código fuente largo;
+- El nombre del error y una breve explicación.
+
+6- Experimenta con la creación de nuevos archivos, la ejecución del código y la manipulación de los mensajes de salida para comprender cómo funcionan los errores y las correcciones en el proceso de programación.

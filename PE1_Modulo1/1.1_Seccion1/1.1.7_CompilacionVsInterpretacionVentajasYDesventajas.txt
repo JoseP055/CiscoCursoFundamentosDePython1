@@ -1,0 +1,26 @@
+//Compilación
+
+=Ventajas:
+
+-La ejecución del código traducido suele ser más rápida.
+-Solo el usuario necesita tener el compilador, permitiendo que el usuario final use el código sin él.
+-El código traducido se almacena utilizando lenguaje de máquina, lo que garantiza la confidencialidad de los trucos y técnicas de programación.
+
+=Desventajas:
+
+-La compilación en sí puede ser un proceso que consume mucho tiempo.
+-Se requiere disponer de múltiples compiladores para diversas plataformas de hardware.
+
+//Interpretación
+
+=Ventajas:
+
+-Puede ejecutar el código tan pronto como se completa, sin necesidad de fases adicionales de traducción.
+-El código se almacena utilizando un lenguaje de programación, lo que permite la ejecución en diversas arquitecturas sin necesidad de compilación adicional.
+
+=Desventajas:
+
+-El código interpretado comparte recursos con el intérprete, lo que puede disminuir la velocidad de ejecución.
+-Tanto el programador como el usuario final deben tener el intérprete para ejecutar el código.
+
+En el caso específico de Python, al ser un lenguaje interpretado, hereda las ventajas y desventajas mencionadas. Aunque requiere el intérprete de Python para ejecutar el código, su disponibilidad gratuita es una ventaja significativa. Los lenguajes interpretados a menudo se denominan lenguajes de scripting y sus programas como scripts. Python, siendo uno de ellos, es popular por su simplicidad y versatilidad.

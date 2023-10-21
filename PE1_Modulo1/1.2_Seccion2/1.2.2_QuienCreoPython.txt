@@ -1,0 +1,5 @@
+Una característica notable de Python es que fue creado por una persona en particular, a diferencia de muchos otros grandes lenguajes de programación desarrollados por corporaciones. Guido van Rossum, nacido en 1956 en Haarlem, Países Bajos, es el creador de Python.
+
+Aunque la rápida difusión y evolución de Python ha sido impulsada por la contribución de innumerables programadores, testers y entusiastas anónimos, la semilla original de Python surgió de la mente de Guido van Rossum.
+
+Su visión ha llevado a Python a convertirse en uno de los lenguajes de programación más populares y versátiles en la actualidad.

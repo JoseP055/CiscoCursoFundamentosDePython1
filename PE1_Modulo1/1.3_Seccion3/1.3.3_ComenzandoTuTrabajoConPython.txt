@@ -1,0 +1,5 @@
+En primer lugar, asegúrate de tener Python 3 correctamente instalado en tu sistema. Una vez instalado, es esencial que te familiarices con el entorno de desarrollo. Esto incluye un editor de texto adecuado, una consola para ejecutar el código y un depurador para detectar y solucionar errores.
+
+Una herramienta útil que viene con la instalación estándar de Python 3 es el IDLE (Entorno Integrado de Desarrollo y Aprendizaje, por sus siglas en inglés). Puedes encontrarlo en los menús de tu sistema operativo o buscarlo directamente en la carpeta de Python 3.x.
+
+IDLE proporciona una interfaz simple y fácil de usar para escribir, ejecutar y depurar tu código Python. Es especialmente útil para principiantes, ya que les permite comenzar rápidamente sin la necesidad de configuraciones complicadas.

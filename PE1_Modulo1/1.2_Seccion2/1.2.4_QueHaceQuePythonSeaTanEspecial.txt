@@ -1,0 +1,14 @@
+¿Por qué Python?
+¿Por qué los programadores, jóvenes y viejos, experimentados y novatos, quieren usarlo? ¿Cómo fue que las grandes empresas adoptaron Python e implementaron sus productos al usarlo?
+
+Existen muchas razones. Ya hemos enumerado algunas de ellas, pero vamos a enumerarlas de una manera más práctica:
+
+-> Fácil de aprender: Requiere menos tiempo de aprendizaje en comparación con muchos otros lenguajes de programación, lo que permite a los usuarios comenzar a programar más rápidamente.
+
+-> Fácil de enseñar: La carga de trabajo para enseñar Python es menor en comparación con otros lenguajes, lo que permite a los instructores enfocarse en las técnicas generales de programación.
+
+-> Facilidad para escribir software nuevo: Permite a los programadores escribir código más rápidamente en comparación con otros lenguajes de programación.
+
+-> Fácil de entender: La legibilidad del código de Python facilita la comprensión del código de otros programadores, lo que facilita la colaboración y el mantenimiento del código.
+
+-> Fácil de obtener, instalar y desplegar: Python es gratuito, de código abierto y compatible con múltiples plataformas, lo que lo hace accesible y adaptable para una variedad de proyectos y aplicaciones.

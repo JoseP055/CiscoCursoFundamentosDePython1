@@ -1,0 +1,13 @@
+Prueba del Módulo 1
+¡Bien hecho! Llegaste al final del Módulo 1 y completaste un paso importante en tu educación en programación Python. Aquí hay un breve resumen de las áreas temáticas que cubrió en el Módulo 1:
+
+- Los fundamentos de la programación de computadoras, es decir, cómo funciona la computadora, cómo se ejecuta el programa, cómo se utiliza el lenguaje de programación definido y construido;
+- La diferencia entre compilación e interpretación;
+- La información básica sobre Python y cómo se posiciona entre otros lenguajes de programación, y qué distingue a sus diferentes versiones;
+- Cómo obtener, instalar y configurar Python en su máquina local.
+
+Ahora estás listo para realizar la Prueba del Módulo, que te ayudará evalúar lo que has aprendido hasta ahora.
+
+La siguiente prueba se basa en lo que acabas de aprender. Hay diez preguntas en total y debes obtener al menos un 70 % para aprobar.
+
+¡Buena suerte!

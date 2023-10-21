@@ -1,0 +1,5 @@
+Un programa de computadora sirve como un conjunto de instrucciones detalladas que guían a la máquina sobre cómo realizar tareas específicas. A pesar de la capacidad inherente de las computadoras para ejecutar operaciones simples rápidamente y repetidamente, su comprensión se limita a instrucciones precisas y directas. El programa le permite a la computadora procesar datos de entrada y producir resultados útiles en función de esas instrucciones.
+
+Por ejemplo, al calcular la velocidad promedio durante un viaje largo, la computadora requiere instrucciones claras. Estas incluirían aceptar valores para la distancia recorrida y el tiempo total de viaje, dividir la distancia por el tiempo y luego almacenar y mostrar el resultado de la velocidad promedio en un formato comprensible.
+
+Estas simples instrucciones se combinan para formar un programa funcional. Aunque estos ejemplos pueden no estar formalizados, representan la base para traducir instrucciones en un lenguaje que la computadora pueda entender. En este contexto, el lenguaje de programación actúa como la herramienta fundamental para comunicar estos comandos de manera legible para la computadora.

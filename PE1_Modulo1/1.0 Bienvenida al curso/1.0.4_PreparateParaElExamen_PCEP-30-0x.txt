@@ -1,0 +1,12 @@
+Sumérgete en la programación, aprende Python desde cero y prepárate para la certificación PCEP 
+- Programador Python de nivel básico certificado - 
+
+Fundamentos de Python 1 está alineado con la certificación PCEP – Certified Entry-Level Python Programmer, una credencial profesional que demuestra la comprensión del titular de la sintaxis y la semántica del lenguaje Python. así como su competencia en el uso de los elementos, herramientas y recursos más esenciales del lenguaje para diseñar, desarrollar y refactorizar programas simples de Python.
+
+El titular de la certificación conoce la sintaxis del lenguaje Python en un grado que le permite trabajar con variables, operadores, mecanismos de flujo de control y funciones, y comprende los fundamentos del sistema de tipos de datos de Python, el manejo de excepciones y la resolución de problemas. , la depuración y el entorno de tiempo de ejecución.
+
+La certificación PCEP – Certified Entry-Level Python Programmer es un paso intermedio hacia la certificación PCAP – Certified Associate in Python Programming y el punto de partida para iniciar una carrera en el desarrollo de software, programación en Python y tecnologías relacionadas.
+
+El obtener la certificación PCEP te ayudará a destacarte de otros candidatos y te abrirá puertas.
+
+Para obtener más información sobre la certificación Certified Entry-Level Python Programmer, visita www.pythoninstitute.org.

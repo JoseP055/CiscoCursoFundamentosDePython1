@@ -1,0 +1,11 @@
+Este curso ha sido diseñado y desarrollado por OpenEDG Python Institute en asociación con Cisco Networking Academy.
+
+El curso ha sido creado para cualquier persona y todos aquellos que quieran aprender Python y técnicas modernas de programación. Atraerá especialmente a:
+
+
+-Aspirantes a programadores y estudiantes interesados en aprender programación por diversión y para tareas relacionadas con el trabajo;
+-Estudiantes que buscan adquirir habilidades y conocimientos fundamentales para un trabajo de nivel de entrada como desarrollador de software, analista de datos o probador;
+-Profesionales de la industria que deseen explorar tecnologías que están conectadas con Python, o que lo utilizan como base;
+-Líderes de equipo, gerentes de producto y gerentes de proyecto que desean comprender la terminología y los procesos en el ciclo de desarrollo de software para administrar y comunícar de manera más efectiva con los equipos de producción y desarrollo.
+
+Durante el curso, tendrás acceso a materiales prácticos, laboratorios , cuestionarios, evaluaciones y pruebas para aprender a utilizar las habilidades y los conocimientos adquiridos al estudiar los recursos y realizar tareas de codificación, e interactuar con algunos desafíos y situaciones de programación de la vida real.

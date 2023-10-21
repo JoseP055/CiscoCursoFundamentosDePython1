@@ -1,0 +1,5 @@
+El primer paso es crear un nuevo archivo fuente en Python. Utiliza la opción "New File" en el menú del IDLE para abrir una ventana de editor. Asegúrate de guardar el archivo con la extensión .py. Una vez que el archivo esté listo, agrega el código print("Hisssssss...") y guárdalo. Recuerda utilizar comillas simples o dobles para delimitar las cadenas de texto.
+
+Después de guardar el archivo, ejecuta el programa utilizando la opción "Run Module" en el menú del IDLE. Si el código no contiene errores, verás el resultado en la consola. En este caso, se mostrará "Hisssssss...". Puedes probar ejecutar el programa varias veces para confirmar que funciona correctamente.
+
+Finalmente, cierra la ventana del editor y la consola y regresa al escritorio. Este simple ejercicio te permitirá familiarizarte con el entorno de Python y te dará una idea de cómo escribir y ejecutar programas en este lenguaje de programación.

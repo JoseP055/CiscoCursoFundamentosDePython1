@@ -1,0 +1,3 @@
+Python 3 generalmente está incluido en los sistemas operativos Linux. Los usuarios de Linux pueden verificar si tienen Python 3 instalado simplemente abriendo la terminal y escribiendo "python3" en el prompt del shell. Si Python 3 no está presente, pueden utilizar el administrador de paquetes de Linux para descargar e instalar Python 3.
+
+Los usuarios de otros sistemas operativos pueden descargar Python 3 desde el sitio web oficial de Python (https://www.python.org/downloads/). El sitio proporciona las últimas versiones de Python 3 para varias plataformas, lo que permite a los usuarios elegir el instalador adecuado para su sistema operativo específico.

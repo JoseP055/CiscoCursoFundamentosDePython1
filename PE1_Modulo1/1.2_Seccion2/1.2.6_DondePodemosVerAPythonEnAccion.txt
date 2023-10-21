@@ -1,0 +1,3 @@
+Lo vemos todos los días y en casi todas partes. Se utiliza ampliamente para implementar complejos Servicios de Internet como motores de búsqueda, almacenamiento en la nube y herramientas, redes sociales, etc. Cuando utilizas cualquiera de estos servicios, en realidad estás muy cerca de Python.
+
+Muchas herramientas de desarrollo se implementan en Python. Cada vez se escriben más aplicaciones de uso diario en Python. Muchos científicos han abandonado las costosas herramientas patentadas y se han cambiado a Python. Muchos testers de proyectos de TI han comenzado a usar Python para llevar a cabo procedimientos de prueba repetibles. La lista es larga.
