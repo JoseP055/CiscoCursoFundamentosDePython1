@@ -1,0 +1,9 @@
+El mecanismo de argumentos de palabra clave en Python permite personalizar el comportamiento de funciones como print().
+Al utilizar argumentos de palabra clave, el significado de los argumentos se determina por palabras especiales en lugar de su posición.
+El argumento "end" en print() controla los caracteres enviados a la salida una vez que se agotan los argumentos posicionales.
+Por defecto, end se comporta como end="\n", produciendo una nueva línea.
+La asignación de una cadena vacía a "end" suprime la generación de una nueva línea.
+Del mismo modo, el argumento "sep" controla el separador entre los argumentos de salida y por defecto es un espacio.
+Cambiar sep a una cadena personalizada altera el separador.
+Ambos argumentos de palabra clave pueden combinarse en una única invocación.
+Estos ajustes ofrecen flexibilidad al imprimir y presentar datos en Python, lo que resulta fundamental para la comprensión y el procesamiento de datos.

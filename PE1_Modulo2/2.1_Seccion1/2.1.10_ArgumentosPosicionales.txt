@@ -1,0 +1,5 @@
+print("Mi nombre es", "Python.")
+print("Monty Python.")
+
+La forma en que estamos pasando los argumentos a la función print() es la más común en Python, y se llama la forma posicional.
+Este nombre proviene del hecho de que el significado del argumento está dictado por su posición (por ejemplo, el segundo argumento se mostrará después del primero, no al revés).

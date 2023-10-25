@@ -1,0 +1,13 @@
+En Python, la función print se utiliza para enviar texto a la terminal y mostrar mensajes en la pantalla.
+Aunque el término "función" puede recordarte las funciones matemáticas, las funciones en Python tienen una versatilidad mucho mayor.
+Pueden realizar una variedad de tareas, como producir efectos (como imprimir en la pantalla, crear archivos, o reproducir sonidos) o evaluar valores y devolver resultados.
+A diferencia de las funciones matemáticas tradicionales, las funciones de Python pueden realizar múltiples tareas a la vez, y su uso no se limita únicamente a cálculos matemáticos.
+Las funciones en Python son partes esenciales del código de computadora que realizan diversas operaciones y permiten una amplia gama de funcionalidades en un programa.
+
+¿De dónde provienen las funciones?
+
+Las funciones en Python pueden provenir de diferentes fuentes. Pueden originarse directamente de Python, como la función print, que es un componente integral del entorno de Python y no requiere una instalación adicional.
+También pueden derivarse de módulos de Python, que son complementos opcionales que pueden venir incluidos con Python o que pueden requerir una instalación separada.
+Además, puedes escribir tus propias funciones en tu código, lo que te permite agregar tantas funciones como necesites para simplificar y organizar tu programa.
+Es importante asignar nombres significativos a las funciones para facilitar la comprensión de su propósito y funcionalidad.
+Si vas a utilizar alguna función ya existente, no podrás modificar su nombre, pero cuando comiences a escribir tus propias funciones, debes considerar cuidadosamente la elección de nombres.

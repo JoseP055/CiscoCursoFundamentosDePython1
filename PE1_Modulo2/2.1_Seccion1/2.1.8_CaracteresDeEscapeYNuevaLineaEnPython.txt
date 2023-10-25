@@ -1,0 +1,7 @@
+El fragmento de código modificado incluye el uso de caracteres de escape (\n) para controlar la nueva línea en la salida.
+Estos caracteres especiales indican a la consola que debe comenzar una nueva línea de salida.
+La barra invertida () en Python se utiliza como un carácter de escape para señalar la inclusión de un carácter especial.
+En este caso, el carácter n después de la barra invertida representa una nueva línea.
+Al ejecutar el código, se observan dos nuevas líneas en el texto, una en cada ubicación donde se ha utilizado el carácter de escape.
+Cabe destacar que si se desea colocar una barra invertida simple dentro de una cadena, es necesario duplicarla para evitar errores.
+Experimentar con el código y comprender el uso de caracteres de escape puede facilitar la manipulación de la salida en la consola.

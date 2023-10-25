@@ -1,0 +1,5 @@
+El código de Python requiere una instrucción por línea y puede extenderse a través de múltiples líneas si es necesario.
+Se observa que la función print() inicia su salida desde una nueva línea con cada invocación.
+Las invocaciones de print() contienen cadenas diferentes como argumentos, reflejando su orden de ejecución en la consola.
+Se agregó una invocación vacía de print() que produce una línea vacía o una nueva línea.
+Esta no es la única forma de producir una nueva línea en la consola, ya que hay otras formas de lograrlo.

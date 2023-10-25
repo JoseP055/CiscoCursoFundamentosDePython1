@@ -1,0 +1,2 @@
+La función `print()` puede ser utilizada con múltiples argumentos separados por comas, los cuales serán mostrados en una sola línea con espacios entre ellos.
+Aunque los argumentos puedan estar definidos sin espacios, la función `print()` automáticamente añadirá espacios entre los elementos mostrados.

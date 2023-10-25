@@ -1,0 +1,8 @@
+Una función puede tener un efecto y un resultado, además de uno o más argumentos.
+A diferencia de las funciones matemáticas, las funciones de Python pueden aceptar cualquier cantidad de argumentos según sus necesidades.
+Aunque algunas funciones pueden no necesitar argumentos.
+La función print() en Python toma una cadena como su argumento, la cual está delimitada por comillas.
+Las comillas asignan un significado específico a la cadena y se interpretan como datos literales en lugar de código ejecutable.
+Modificar, ingresar nuevo contenido o borrar parte del contenido de la cadena son formas de manipularla.
+Es esencial comprender cómo especificar una cadena dentro del código de Python, ya que es una habilidad fundamental.
+A medida que aprendes sobre funciones y cadenas, es crucial comprender su sintaxis y semántica.
