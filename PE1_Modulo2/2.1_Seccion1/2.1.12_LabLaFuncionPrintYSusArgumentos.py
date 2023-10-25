@@ -14,4 +14,4 @@ print("Python")
 
 # Logrado
 # Info
-# se usa 'sep="***" para separar cada argumento de esa linea por *** y un end para indicarle a la linea que no salte a una nueva y que sustituya el cambio de linea por un "..."
+# se usa 'sep="***" para separar cada argumento de esa linea por *** y un end para indicarle a la linea que no salte a una nueva y que sustituya el cambio de linea por un "..."s
