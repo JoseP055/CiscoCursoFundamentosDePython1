@@ -1,0 +1,9 @@
+Los literales en Python son datos cuyos valores están determinados por sí mismos.
+Por ejemplo, los números y las cadenas son ejemplos comunes de literales.
+Mientras que los literales numéricos, como "123", representan valores específicos, otros literales, como "c", pueden tener múltiplesinterpretaciones dependiendo del contexto.
+Cuando se utilizan literales en el código, es esencial seguir ciertas convenciones de escritura.
+ 
+En un ejemplo, se muestra cómo una cadena y un número entero son representados de manera similar en la función print(), a pesar de que internamente son almacenados de manera distinta en la memoria de la computadora.
+El texto enfatiza la distinción entre literales de cadena y literales numéricos, y explica cómo la función print() puede mostrar ambos tipos de literales de manera legible para los humanos.
+Aunque los literales de cadena y los literales numéricos son representados de manera diferente internamente, la función print() es capaz de mostrarlos de manera coherente.
+Se plantea la importancia de comprender la naturaleza de los literales y su representación en Python, lo que será fundamental para el manejo adecuado de datos en el código.

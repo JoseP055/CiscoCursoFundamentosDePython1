@@ -1,0 +1,14 @@
+Números Punto-Flotantes:
+En Python, los números punto-flotante son aquellos que tienen una parte fraccionaria, es decir, números con una parte decimal no vacía.
+Es crucial utilizar el punto en lugar de la coma para representar los decimales en Python.
+La notación puede incluir la omisión del cero si es el único dígito antes del punto decimal, lo que significa que ".4" es equivalente a "0.4" y "4." es igual a "4.0".
+
+Enteros vs. Flotantes:
+En Python, el punto decimal es crucial para distinguir entre números enteros y números punto-flotante.
+Mientras "4" se considera un número entero, "4.0" se considera un número flotante.
+Además, la notación científica, que utiliza la letra E para representar la notación exponencial, se puede emplear para representar números muy grandes o muy pequeños de manera concisa en Python.
+
+Codificación de Flotantes:
+La codificación de números muy pequeños o muy grandes también se puede realizar utilizando la notación científica en Python.
+Por ejemplo, para representar la constante de Planck, se puede usar la notación "6.62607E-34".
+Aunque la codificación de un valor flotante puede variar en la presentación, Python tiende a elegir la notación más corta para los números, lo que es importante tener en cuenta al trabajar con literales.

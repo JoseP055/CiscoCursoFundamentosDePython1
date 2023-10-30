@@ -1,0 +1,40 @@
+Los datos numéricos en Python se pueden clasificar en dos tipos principales: enteros y números de punto flotante.
+Cada uno de estos tipos tiene características específicas en términos de su representación y su rango de valores permitidos.
+Es esencial comprender la distinción entre estos dos tipos, ya que influye en la forma en que se almacenan y manipulan los datos en Python.
+
+Los literales de números enteros en Python deben consistir únicamente en una cadena de dígitos sin caracteres adicionales.
+Aunque se permite la utilización de guiones bajos para mejorar la legibilidad, no se pueden incluir espacios ni otros caracteres en un número entero.
+Tanto los números positivos como los negativos se pueden representar de manera adecuada utilizando los símbolos de más y menos, respectivamente.
+
+Además de los números enteros convencionales, Python permite la representación de números en forma octal y hexadecimal.
+Los números que siguen la convención de octal deben estar precedidos por el prefijo 0o (cero-o), mientras que los números en notación hexadecimal deben tener el prefijo 0x (cero-x).
+Estas convenciones especiales brindan a los programadores la flexibilidad de codificar valores específicos en el código de Python de manera clara y eficiente.
+
+Que son los octales y los hexadecimales y como determinarlos:
+
+Los números octales en Python son aquellos precedidos por el prefijo 0o o 0O (cero-o). Estos números deben constar de dígitos en el rango de 0 a 7 y se interpretan como valores octales.
+Por ejemplo, el número 0o123 en su forma decimal es igual a 83.
+La función print() en Python es capaz de realizar conversiones automáticas entre la notación octal y decimal, lo que facilita su uso en diferentes contextos.
+
+Los números hexadecimales en Python deben estar precedidos por el prefijo 0x o 0X (cero-x).
+Este sistema numérico utiliza 16 símbolos, que van desde 0 hasta 9 y de la A a la F, donde A representa el valor 10 y F el valor 15.
+Por ejemplo, el número 0x123 en su forma decimal es igual a 291.
+Al igual que con los números octales, la función print() en Python es capaz de manejar la conversión automática entre la notación hexadecimal y decimal.
+
+Ejemplo de notación octal:
+
+python
+Copy code
+print(0o123)  # Resultado: 83
+3 * 8^0 = 3 * 1 = 3
+2 * 8^1 = 2 * 8 = 16
+1 * 8^2 = 1 * 64 = 64
+
+Ejemplo de notación hexadecimal:
+
+python
+Copy code
+print(0x123)  # Resultado: 291
+3 * 16^0 = 3 * 1 = 3
+2 * 16^1 = 2 * 16 = 32
+1 * 16^2 = 1 * 256 = 256

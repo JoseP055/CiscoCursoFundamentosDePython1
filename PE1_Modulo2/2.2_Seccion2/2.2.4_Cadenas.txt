@@ -1,0 +1,15 @@
+Cadenas y Caracteres de Escape:
+Las cadenas se utilizan para procesar texto en Python, como nombres, direcciones, o fragmentos de texto.
+Las comillas dobles delimitan una cadena en Python, y para incluir comillas dentro de una cadena, se puede utilizar el carácter de escape diagonal invertida ().
+Asimismo, Python también permite el uso de apóstrofes en lugar de comillas para delimitar una cadena, siempre y cuando se mantenga la consistencia.
+
+Codificación de Cadenas:
+Al codificar una cadena que contiene un apóstrofe y que está delimitada por dos apóstrofes, se puede utilizar el carácter de escape diagonal invertida ().
+De esta manera, se logra escapar tanto de las comillas como de los apóstrofes.
+Asimismo, se enfatiza que una cadena puede estar vacía y aún así ser considerada como una cadena válida en Python.
+
+Ejemplos:
+
+print("Me gusta \"Monty Python\"")
+
+print('Me gusta "Monty Python"')

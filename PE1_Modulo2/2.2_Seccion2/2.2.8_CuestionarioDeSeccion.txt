@@ -1,0 +1,17 @@
+Pregunta 1: ¿Qué tipos de literales son los siguientes dos ejemplos?
+
+"Hola ", "007"
+
+Ambos son literales de cadena.
+
+Pregunta 2: ¿Qué tipos de literales son los siguientes cuatro ejemplos?
+
+"1.5", 2.0, 528, False
+
+El primero es una cadena, el segundo es un literal numérico (un flotante), el tercero es un literal numérico (un entero) y el cuarto es un literal booleano.
+
+Pregunta 3: ¿Cuál es el valor decimal del siguiente número binario?
+
+1011
+
+Es 11, porque (2**0) + (2**1) + (2**3) = 11

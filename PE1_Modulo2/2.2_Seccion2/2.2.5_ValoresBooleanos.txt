@@ -1,0 +1,7 @@
+En Python, existen dos valores booleanos, `True` y `False`, que representan la verdad y la falsedad respectivamente.
+Estos valores son fundamentales para las operaciones lógicas y de comparación en Python.
+La verdad y la falsedad son respuestas binarias, y las computadoras interpretan y procesan la información en términos de estos dos valores.
+
+En el fragmento de código proporcionado, la expresión `print(True > False)` resulta en `True` porque Python considera `True` como 1 y `False` como 0.
+Por lo tanto, 1 es mayor que 0.
+La expresión `print(True < False)` resulta en `False` porque 1 es obviamente mayor que 0 y, por lo tanto, no es menor que 0.
