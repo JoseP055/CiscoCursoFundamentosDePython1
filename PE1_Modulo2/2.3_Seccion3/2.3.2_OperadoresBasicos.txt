@@ -1,0 +1,39 @@
+Un operador en Python es un símbolo que realiza operaciones con valores.
+Los operadores aritméticos comunes en Python son:
++ (suma), - (resta), * (multiplicación), / (división), // (división entera), % (residuo) y ** (exponenciación).
+Se deben tener en cuenta ciertas reglas, como el resultado de ** que es entero si ambos argumentos son enteros, y flotante si al menos uno de los argumentos es flotante.
+La división siempre produce un resultado flotante, pero se puede usar // para obtener la parte entera del cociente.
+
+Exponenciación: El operador ** se utiliza para la exponenciación en Python. Si ambos argumentos son enteros, el resultado es entero; si al menos uno de los argumentos es flotante, el resultado también será flotante.
+
+Multiplicación y División: El operador * se utiliza para la multiplicación y el operador / se utiliza para la división. La división siempre produce un resultado flotante, incluso si los operandos son enteros.
+
+División entera: El operador // se utiliza para la división entera en Python. El resultado es un número entero y se redondea hacia el valor entero más cercano.
+
+Residuo (Módulo): El operador % se utiliza para obtener el residuo de una división. La división entre cero resulta en un error.
+
+Suma y Resta: Los operadores + y - se utilizan para sumar y restar valores en Python. También existen operadores unarios y binarios para cambiar o conservar el signo de un número.
+
+Ejemplos de codigos con dichos operadores
+
+# Exponenciación
+print(2 ** 3)  # Resultado: 8
+print(2.5 ** 2)  # Resultado: 6.25
+
+# Multiplicación y División
+print(3 * 4)  # Resultado: 12
+print(10 / 2)  # Resultado: 5.0
+
+# División entera
+print(15 // 4)  # Resultado: 3
+print(6 // -4)  # Resultado: -2
+
+# Residuo (Módulo)
+print(15 % 4)  # Resultado: 3
+print(12 % 4.5)  # Resultado: 3
+
+# Suma y Resta
+print(5 + 3)  # Resultado: 8
+print(10 - 4)  # Resultado: 6
+print(-6)  # Resultado: -6
+print(-8)  # Resultado: -8

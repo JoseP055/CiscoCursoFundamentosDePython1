@@ -1,0 +1,14 @@
+Jerarquía y Enlaces de Operadores: Se destaca la importancia de comprender cómo los operadores se comportan en relación con otros operadores en una expresión.
+Se menciona que la mayoría de los operadores tienen un enlace hacia la izquierda, pero se hace una excepción para el operador de exponenciación, que utiliza un enlace hacia la derecha.
+
+Uso de Paréntesis: Se enfatiza el papel de los paréntesis en el cambio del orden de las operaciones en una expresión.
+Se resalta que las subexpresiones dentro de los paréntesis siempre se evalúan primero y que su uso puede mejorar la legibilidad de una expresión.
+
+Ejemplos relevantes incluyen:
+
+Ejemplo de enlace izquierdo: 9 % 6 % 2 donde la operación se realiza primero de izquierda a derecha.
+Resultado = 1
+Ejemplo de enlace derecho: 2 ** 2 y 2 ** 3, donde el operador de exponenciación se evalúa de derecha a izquierda.
+Resultado = 256
+Uso de paréntesis para cambiar el orden natural de las operaciones: print((5 * ((25 % 13) + 100) / (2 * 13)) // 2)
+Reusltado = 10.0

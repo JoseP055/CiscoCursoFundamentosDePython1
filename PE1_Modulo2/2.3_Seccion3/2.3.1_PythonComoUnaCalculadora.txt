@@ -1,0 +1,5 @@
+La función print() en Python no solo puede mostrar valores de literales, sino también el resultado de expresiones y operaciones matemáticas.
+Por ejemplo, al ejecutar el código print(2+2), la salida esperada es el número 4.
+Esta capacidad de Python para evaluar y mostrar resultados matemáticos la convierte en una herramienta útil, aunque no reemplace completamente a una calculadora convencional.
+Al experimentar con otros operadores y expresiones, es posible realizar una variedad de operaciones matemáticas simples directamente en el intérprete de Python.
+Este enfoque proporciona una introducción inicial a los operadores y expresiones que serán abordados con mayor profundidad.
