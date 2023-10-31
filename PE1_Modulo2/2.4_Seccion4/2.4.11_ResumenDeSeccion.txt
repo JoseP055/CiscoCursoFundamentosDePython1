@@ -1,0 +1,32 @@
+Una variable es una ubicación nombrada reservada para almacenar valores en la memoria.
+
+Una variable es creada o inicializada automáticamente cuando se le asigna un valor por primera vez.
+
+Cada variable debe de tener un nombre único - un identificador.
+Un nombre válido debe ser aquel que no contiene espacios, debe comenzar con un guion bajo(_), o una letra, y no puede ser una palabra reservada de Python.
+
+El primer carácter puede estar seguido de guiones bajos, letras, y dígitos.
+
+Las variables en Python son sensibles a mayúsculas y minúsculas.
+
+Python es un lenguaje de tipo dinámico, lo que significa que no se necesita declarar variables en él.
+Para asignar valores a las variables, se utiliza simplemente el operador de asignación, es decir el signo de igual (=), por ejemplo, var = 1.
+
+También es posible utilizar operadores de asignación compuesta (operadores abreviados) para modificar los valores asignados a las variables, por ejemplo: var += 1, o var /= 5 * 2.
+
+Se les puede asignar valores nuevos a variables ya existentes utilizando el operador de asignación o un operador abreviado, por ejemplo:
+
+var = 2
+print(var)
+ 
+var = 3
+print(var)
+ 
+var += 1
+print(var)
+ 
+Puedes combinar texto y variables usando el operador + y emplear la función print() para generar cadenas y variables, por ejemplo:
+
+var = "007"
+print("Agent " + var)
+ 

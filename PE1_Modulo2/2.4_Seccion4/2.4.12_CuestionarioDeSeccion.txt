@@ -1,0 +1,67 @@
+Pregunta 1: ¿Cuál es la salida del siguiente fragmento de código?
+
+var = 2
+var = 3
+print(var)
+
+3  // Correct
+
+2
+
+5
+
+
+Pregunta de opción múltiple
+Pregunta 2: ¿Cuáles de los siguientes nombres de variables son ilegales en Python?  (Selecciona tres respuestas)
+
+my_var
+
+m
+
+101   // Correct
+
+averylongVariablename
+
+m101
+
+m 101        // Correct
+
+Del
+
+del          // Correct
+
+Pregunta 3: ¿Cuál es el resultado del siguiente fragmento?
+
+
+a = '1'
+b = "1"
+print(a + b)
+ 
+
+1
+
+11            // Correct
+
+2
+
+Error
+
+
+Pregunta 4: ¿Cuál es el resultado del siguiente fragmento?
+
+
+a = 6
+b = 3
+a /= 2 * b
+print(a)
+ 
+
+1.0          // Correct
+
+1
+
+9
+
+6
+
+6.0

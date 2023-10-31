@@ -1,0 +1,3 @@
+Las variables son contenedores o cajas que almacenan valores y pueden cambiar a lo largo del programa.
+Las variables se componen de un nombre y un valor, y es responsabilidad del desarrollador asignar nombres significativos a las variables.
+Además, las variables no se generan automáticamente y depende del programador decidir cuántas y cuáles utilizar en el programa.

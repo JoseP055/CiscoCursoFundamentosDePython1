@@ -1,0 +1,49 @@
+Si se desea nombrar una variable, se deben seguir las siguientes reglas:
+
+- El nombre de la variable debe de estar compuesto por MAYÚSCULAS, minúsculas, dígitos, y el carácter _ (guion bajo)
+- El nombre de la variable debe comenzar con una letra;
+- El carácter guion bajo es considerado una letra;
+- Las mayúsculas y minúsculas se tratan de forma distinta (un poco diferente que en el mundo real - Alicia y ALICIA son el mismo nombre, pero en Python son dos nombres de variable distintos, subsecuentemente, son dos variables diferentes);
+- El nombre de las variables no pueden ser igual a alguna de las palabras reservadas de Python (las palabras clave - explicará más de esto pronto).
+
+# Nota que la misma restricción aplica a los nombres de funciones.
+
+Python no impone restricciones en la longitud de los nombres de las variables, pero eso no significa que un nombre de variable largo sea mejor que uno corto.
+
+## Aquí se muestran algunos nombres de variable que son correctos, pero que no siempre son convenientes:
+
+MyVariable
+i
+l
+t34
+Exchange_Rate
+counter
+days_to_christmas
+TheNameIsTooLongAndHardlyReadable
+_
+
+## Estos nombres de variables también son correctos:
+
+Adiós_Señora
+sûr_la_mer
+Einbahnstraße
+переменная.
+
+--Python te permite usar no solo letras latinas sino también caracteres específicos de idiomas que usan otros alfabetos.--
+
+## Ahora veamos algunos nombres incorrectos:
+
+10t (no comienza con una letra)
+!important (no comienza con una letra)
+exchange rate (contiene un espacio).
+
+Los nombres de las variables deben estar en minúsculas, con palabras separadas por guiones bajos para mejorar la legibilidad (por ejemplo, var, my_variable)
+Los nombres de las funciones siguen la misma convención que los nombres de las variables (por ejemplo, fun, my_function)
+También es posible usar letras mixtas (por ejemplo, myVariable), pero solo en contextos donde ese ya es el estilo predominante, para mantener la compatibilidad retroactiva con la convención adoptada.
+
+Palabras Clave
+Observa las palabras que juegan un papel muy importante en cada programa de Python.
+
+['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally',
+'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while',
+'with', 'yield']

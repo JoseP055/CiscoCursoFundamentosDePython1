@@ -1,0 +1,24 @@
+¿Qué se puede almacenar en una variable en Python?
+Cualquier tipo de valor, incluyendo enteros, flotantes, cadenas y otros tipos de datos.
+
+¿Cuáles son los aspectos importantes relacionados con las variables en Python?
+
+Cómo se crean las variables.
+Cómo se les asignan valores.
+
+Una variable se crea cuando se le asigna un valor.
+A diferencia de otros lenguajes de programación, no es necesario declararla.
+
+Si se le asigna cualquier valor a una variable no existente, la variable será automáticamente creada. No se necesita hacer algo más.
+
+La creación (o su sintaxis) es muy simple: solo utiliza el nombre de la variable deseada, después el signo de igual (=) y el valor que se desea colocar dentro de la variable.
+
+Ejemplo:
+
+var = 1
+print(var)
+
+Explicacion:
+(var) es el nombre que le pusimos a nuestra variables
+(=) se usa para asignar un valor a dicha variable
+(1) es el valor que asignamos a la variable
