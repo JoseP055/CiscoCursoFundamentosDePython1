@@ -1,0 +1,9 @@
+La combinación de input(), int(), y float() abre posibilidades para programas que procesan datos numéricos introducidos por usuarios.
+
+Aunque los programas resultantes pueden ser primitivos, se aborda cómo mejorarlos para tomar decisiones y reaccionar a situaciones.
+
+Se presenta un ejemplo donde se modifica un programa para calcular la hipotenusa leyendo las longitudes de los catetos desde la consola.
+
+Aunque el programa actual no maneja correctamente valores negativos, se menciona que este problema será abordado posteriormente.
+
+Se destaca que la variable "hypo" en el código puede ser eliminada, ya que la función print() acepta expresiones como argumentos.

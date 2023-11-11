@@ -1,0 +1,17 @@
+En Python, los comentarios son bloques de texto que proporcionan explicaciones o documentación dentro del código.
+Se inician con el símbolo '#' y se extienden hasta el final de la línea. Si es necesario un comentario de varias líneas, se debe colocar '#' en cada línea.
+
+Los comentarios son útiles para explicar el funcionamiento del código, documentar la autoría o fechas importantes.
+
+En el siguiente ejemplo, se utiliza el comentario para explicar el propósito de un programa que calcula la hipotenusa de un triángulo:
+
+# Este programa evalúa la hipotenusa c.
+# a y b son las longitudes de los cátetos.
+a = 3.0
+b = 4.0
+c = (a ** 2 + b ** 2) ** 0.5  # Se emplea ** en lugar de una raíz cuadrada.
+print("c =", c)
+
+Es recomendable que los desarrolladores utilicen nombres de variables auto-explicativos para reducir la necesidad de comentarios extensos.
+Por ejemplo, asignar el nombre square_area a una variable que almacena el área de un cuadrado es preferible a un nombre ambiguo como aunt_jane.
+El nombre dado a la variable se puede definir como auto-comentable.

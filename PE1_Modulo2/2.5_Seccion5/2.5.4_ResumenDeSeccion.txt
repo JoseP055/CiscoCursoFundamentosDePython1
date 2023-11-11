@@ -1,0 +1,13 @@
+Los comentarios en Python ofrecen información adicional en el código, destinada a lectores y son ignorados durante la ejecución.
+
+Se crean con el símbolo # y abarcan hasta el final de la línea.
+
+Los comentarios multilinea requieren # al inicio de cada línea.
+
+Pueden usarse para desactivar fragmentos de código no necesarios en un momento dado.
+
+Auto-comentar nombres de variables mejora la claridad, priorizando nombres significativos como "length" y "width" sobre "myvar1" y "myvar2".
+
+La precisión y no proporcionar información incorrecta en los comentarios es crucial.
+
+Facilitan la comprensión del código al leerlo después de un tiempo y cuando otros desarrolladores revisan el código.

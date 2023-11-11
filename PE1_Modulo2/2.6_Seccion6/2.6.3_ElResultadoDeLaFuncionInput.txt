@@ -1,0 +1,11 @@
+Se ha dicho antes, pero hay que decirlo sin ambigüedades una vez más: el resultado de la función input() es una cadena.
+
+Una cadena que contiene todos los caracteres que el usuario introduce desde el teclado. No es un entero ni un flotante.
+
+Esto significa que no se debe utilizar como un argumento para operaciones matemáticas, por ejemplo, no se pueden utilizar estos datos para elevarlos al cuadrado, para dividirlos entre algo o por algo.
+
+
+anything = input("Ingresa un número:")
+something = anything ** 2.0
+print(anything, "al cuadrado es", something)
+ 

@@ -1,0 +1,19 @@
+Python ofrece dos simples funciones para especificar un tipo de dato y resolver este problema, aquí están: int() y float().
+
+Sus nombres indican cual es su función:
+
+La función int() toma un argumento (por ejemplo, una cadena: int(string)) e intenta convertirlo a un valor entero; si llegase a fallar, el programa entero fallará también (existe una manera de solucionar esto, se explicará mas adelante);
+La función float() toma un argumento (por ejemplo, una cadena: float(string)) e intenta convertirlo a flotante (el resto es lo mismo).
+Esto es muy simple y muy efectivo. Sin embargo, estas funciones se pueden invocar directamente pasando el resultado de la función input() directamente. No hay necesidad de emplear variables como almacenamiento intermedio.
+
+Se ha implementado esta idea en el editor - observa el código.
+
+¿Puedes imaginar como la cadena introducida por el usuario fluye desde la función input() hacía la función print()?
+
+Intenta ejecutar el código modificado. No olvides introducir un número valido.
+
+Prueba con diferentes valores, pequeños, grandes, negativos y positivos. El cero también es un buen valor a introducir.
+
+anything = float(input("Ingresa un número: "))
+something = anything ** 2.0
+print(anything, "a la potencia de 2 es", something)

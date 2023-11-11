@@ -1,0 +1,18 @@
+Pregunta 1: ¿Cuál es el resultado del siguiente fragmento?
+
+
+# print("Cadena #1")
+print("Cadena #2")
+
+R/ Cadena #2
+
+Pregunta 2: ¿Qué pasará cuando se ejecute el siguiente código?
+
+
+#Este es
+un comentario
+multilínea.#
+
+print("¡Hola!")
+
+R/ Dara error tipo SyntaxError: invalid syntax

@@ -1,0 +1,11 @@
+Los comentarios pueden ser útiles en otro aspecto - se pueden utilizar para marcar un fragmento de código que actualmente no se necesita, cual sea la razón.
+Observa el siguiente ejemplo, sí se descomenta la línea resaltada, esto afectara la salida o resultado del código:
+
+
+# Este es un programa de prueba.
+x = 1
+y = 2
+# y = y + x
+print(x + y)
+ 
+Esto es frecuentemente realizado cuando se esta probando un programa, con el fin de aislar un fragmento de código donde posiblemente se encuentra un error.

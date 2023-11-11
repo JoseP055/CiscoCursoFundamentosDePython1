@@ -1,0 +1,22 @@
+La función print() emite datos a la consola, mientras que la función input() recoge datos de la consola.
+
+input() puede incluir un mensaje opcional para el usuario. Por ejemplo:
+
+python
+Copy code
+name = input("Ingresa tu nombre: ")
+print("Hola, " + name + ". ¡Un gusto conocerte!")
+La función input() detiene el flujo del programa, esperando que el usuario ingrese datos y presione Enter.
+
+El resultado de input() es una cadena, y se pueden concatenar con el operador +. Ejemplo:
+
+python
+Copy code
+num_1 = input("Ingresa el primer número: ")  # Ingresa 12
+num_2 = input("Ingresa el segundo número: ")  # Ingresa 21
+print(num_1 + num_2)  # El programa retorna 1221
+Las cadenas también se pueden replicar con el operador *. Ejemplo:
+python
+Copy code
+my_input = input("Ingresa algo: ")  # Entrada de ejemplo: hola
+print(my_input * 3)  # Salida Esperada: holahola

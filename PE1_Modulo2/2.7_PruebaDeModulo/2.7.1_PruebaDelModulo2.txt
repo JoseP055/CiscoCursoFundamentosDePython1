@@ -1,0 +1,11 @@
+¡Bien hecho! Has llegado al final del Módulo 2 y has completado un paso importante en tu educación de programación en Python. Aquí hay un breve resumen de los objetivos que has cubierto y con los que te has familiarizado en el Módulo 2:
+
+Cómo escribir y ejecutar programas simples en Python;
+Qué son los literales, operadores y expresiones en Python;
+Qué son las variables y cuáles son las reglas que las gobiernan;
+Cómo realizar operaciones básicas de entrada y salida.
+Ahora estás listo para realizar la prueba del módulo, que te ayudará a evaluar lo que has aprendido hasta ahora.
+
+La siguiente prueba se basa en lo que acabas de aprender. Hay veinte preguntas en total y debes obtener al menos un 70 % para aprobar.
+
+¡Buena suerte!

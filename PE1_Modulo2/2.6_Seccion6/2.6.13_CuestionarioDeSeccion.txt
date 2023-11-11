@@ -1,0 +1,17 @@
+Pregunta 1: ¿Cuál es el resultado del siguiente fragmento?
+
+
+x = int(input("Ingresa un número: ")) # El usuario ingresa un 2
+print(x * "5")
+ 
+R/
+55
+
+Pregunta 2: ¿Cuál es el resultado esperado del siguiente fragmento?
+
+
+x = input("Ingresa un número: ") # El usuario ingresa un 2
+print(type(x))
+ 
+R/
+<class 'str'>

@@ -1,0 +1,32 @@
+Observa el código en el editor. Ejecútalo, inserta cualquier número, y oprime Enter.
+
+# Probando un mensaje de error TypeError.
+
+anything = input("Ingresa un número: ")
+something = anything ** 2.0
+print(anything, "al cuadrado es", something)
+
+Console 
+Ingresa un número: 6
+Traceback (most recent call last):
+  File "main.py", line 4, in 
+    something = anything ** 2.0
+TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'float'
+
+¿Qué es lo que ocurre? Python debió haberte dado la siguiente salida:
+
+Traceback (most recent call last):
+File ".main.py", line 4, in <module>
+something = anything ** 2.0
+TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'float'
+Output
+
+La última línea lo explica todo, se intentó aplicar el operador ** a 'str' (una cadena) acompañado por un 'float'.
+
+Esto está prohibido.
+
+Esto debe de ser obvio. ¿Puedes predecir el valor de "ser o no ser" elevado a la potencia 2?
+
+No podemos. Python tampoco puede.
+
+¿Habremos llegado a un punto muerto? ¿Existirá alguna solución? Claro que la hay.

@@ -1,0 +1,21 @@
+La función input() permite la interacción del usuario al introducir datos desde la consola. A diferencia de print(), devuelve datos utilizable, siendo esencial para programas interactivos.
+Un ejemplo simple solicita al usuario ingresar datos, asigna el resultado a una variable y lo muestra mediante print().
+
+print("Dime lo que sea...")
+anything = input()
+print("Hmm...", anything, "... ¿en serio?")
+ 
+Se muestra un ejemplo muy sencillo de como utilizar la función input().
+
+
+El ejemplo usa la función input() para recibir datos del usuario desde la consola.
+
+Se destaca que la función se invoca sin argumentos, poniendo la consola en modo de entrada.
+
+Se menciona que el usuario puede ingresar datos mediante teclado, voz o imagen.
+
+Es crucial asignar el resultado de input() a una variable para no perder los datos introducidos.
+
+Se utiliza la función print() para mostrar los datos obtenidos, con observaciones adicionales.
+
+Se alienta a ejecutar el código y experimentar con la función input() para comprender su funcionalidad.

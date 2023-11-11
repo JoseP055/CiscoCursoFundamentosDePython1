@@ -1,0 +1,14 @@
+La función input() puede hacer otra cosa: puede avisar al usuario sin ninguna ayuda de print().
+
+Hemos modificado un poco nuestro ejemplo, mira el código:
+
+
+anything = input("Dime lo que sea...")
+print("Hmm...", anything, "...¿en serio?")
+ 
+Nota:
+
+la función input() se invoca con un argumento: es una cadena que contiene un mensaje;
+el mensaje se mostrará en la consola antes de que el usuario tenga la oportunidad de ingresar algo;
+input() entonces hará su trabajo.
+Esta variante de la invocación de input() simplifica el código y lo hace más claro.

@@ -1,0 +1,17 @@
+Operador de Concatenación (+):
+
+Concatena dos cadenas.
+No es conmutativo.
+Ejemplo: "ab" + "ba" no es igual a "ba" + "ab".
+Se utiliza asegurando que ambos argumentos sean cadenas.
+
+Operador de Replicación (*):
+
+Replica una cadena según el número indicado.
+Ejemplo: "James" * 3 produce "JamesJamesJames".
+El orden importa: 3 * "an" produce "ananan".
+Un número menor o igual a cero produce una cadena vacía.
+Ejemplo de Uso:
+
+Programa que "dibuja" un rectángulo utilizando el operador de concatenación y replicación.
+Recuerda que estos operadores ofrecen nuevas formas de manipular cadenas y pueden ser útiles en la construcción de salidas precisas

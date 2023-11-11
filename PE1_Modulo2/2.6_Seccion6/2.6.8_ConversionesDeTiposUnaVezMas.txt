@@ -1,0 +1,9 @@
+str():
+
+La función str() convierte números a cadenas.
+Es útil para combinar números y cadenas en una salida coherente.
+
+Triángulo Rectángulo:
+
+El programa del triángulo rectángulo utiliza la función str() para convertir el resultado entero en una cadena.
+Permite una salida más limpia y eficiente en la función print().
