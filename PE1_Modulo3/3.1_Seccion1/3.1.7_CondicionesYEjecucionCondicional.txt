@@ -1,0 +1,56 @@
+En python , las instrucciones condicionales permiten realizar acciones basadas en condiciones específicas.
+Se introducen con la palabra clave if y pueden tener una rama adicional con la palabra clave else para manejar situaciones alternativas.
+
+Estructura básica de una sentencia condicional if:
+
+ 
+ 
+if condicion:
+    # Acciones a realizar si la condición es verdadera
+
+La ejecución depende de si la condición es verdadera (True) o falsa (False).
+
+Se destaca la importancia de la sangría para definir el alcance de las acciones dentro de la condición.
+
+Ejemplo:
+
+if clima_bueno:
+    salir_a_caminar()
+almorzar()
+
+La sentencia else se agrega para manejar casos alternativos:
+
+if condicion:
+    # Acciones si la condición es verdadera
+else:
+    # Acciones si la condición es falsa
+
+Ejemplo:
+
+if clima_bueno:
+    salir_a_caminar()
+else:
+    ir_al_cine()
+almorzar()
+
+Se introduce la anidación de sentencias if y la palabra clave elif para manejar múltiples condiciones de manera más clara:
+
+if condicion_1:
+    # Acciones si la condición_1 es verdadera
+elif condicion_2:
+    # Acciones si la condicion_2 es verdadera
+else:
+    # Acciones si ninguna de las condiciones anteriores es verdadera
+
+Ejemplo:
+
+if clima_bueno:
+    salir_a_caminar()
+elif entradas_disponibles:
+    ir_al_cine()
+elif mesas_disponibles:
+    almorzar()
+else:
+    jugar_ajedrez_en_casa()
+
+Se destaca la importancia de la sangría para mantener la legibilidad del código y cómo la estructura condicional ayuda a expresar planes de manera clara.

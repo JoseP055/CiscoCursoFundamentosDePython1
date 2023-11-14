@@ -1,0 +1,17 @@
+Cuando obtienes una respuesta de una operación de comparación en Python, hay dos formas principales de utilizarla.
+Primero, puedes almacenarla en una variable para referencia futura, como se muestra a continuación:
+
+answer = number_of_lions >= number_of_lionesses
+
+La variable answer contendrá la respuesta a la pregunta de comparación.
+La segunda forma es utilizar la respuesta para tomar decisiones en el flujo del programa.
+
+Tabla de Prioridades Actualizada:
+
+Prioridad   Operador
+1           +, -         unario
+2           **
+3           *, /, //, %
+4           +, -          binario
+5           <, <=, >, >=
+6           ==, !=

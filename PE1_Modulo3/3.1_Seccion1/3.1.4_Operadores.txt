@@ -1,0 +1,49 @@
+Operador de Igualdad (==):
+
+Compara los valores de dos operandos.
+Resultado True si son iguales, False si son diferentes.
+Ejemplo:
+ 
+ 
+var == 0
+Operador de Desigualdad (!=):
+
+También compara valores de dos operandos.
+Resultado True si son diferentes, False si son iguales.
+Ejemplo:
+ 
+ 
+var != 0
+Operador Mayor Que (>):
+
+Compara si el primer operando es mayor que el segundo.
+True si es mayor, False si no lo es.
+Ejemplo:
+ 
+ 
+black_sheep > white_sheep
+Operador Mayor o Igual Que (>=):
+
+Compara si el primer operando es mayor o igual al segundo.
+True si es mayor o igual, False si no lo es.
+Ejemplo:
+ 
+ 
+centigrade_outside >= 0.0
+Operador Menor Que (<):
+
+Compara si el primer operando es menor que el segundo.
+True si es menor, False si no lo es.
+Ejemplo:
+ 
+ 
+current_velocity_mph < 85
+Operador Menor o Igual Que (<=):
+
+Compara si el primer operando es menor o igual al segundo.
+True si es menor o igual, False si no lo es.
+Ejemplo:
+ 
+ 
+current_velocity_mph <= 85
+Estos operadores se utilizan para realizar comparaciones en  , generando resultados lógicos (True o False) según las condiciones especificadas.

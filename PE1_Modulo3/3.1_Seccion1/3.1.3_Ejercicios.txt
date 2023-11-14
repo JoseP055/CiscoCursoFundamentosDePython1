@@ -1,0 +1,23 @@
+Ahora vamos a hacer algunas preguntas. Intenta adivinar las respuestas.
+
+Pregunta #1: ¿Cuál es el resultado de la siguiente comparación?
+
+2 == 2
+
+R/
+True - por supuesto, 2 es igual a 2. Python responderá True (recuerda este par de literales predefinidos, True y False - también son palabras clave de Python).
+
+
+Pregunta #2: ¿Cuál es el resultado de la siguiente comparación?
+
+2 == 2.
+
+R/
+Esta pregunta no es tan fácil como la primera. Afortunadamente, Python puede convertir el valor entero en su equivalente real y, en consecuencia, la respuesta es True.
+
+Pregunta #3: ¿Cuál es el resultado de la siguiente comparación?
+
+1 == 2
+
+R/
+Esto debería ser fácil. La respuesta será (o mejor dicho, siempre es) False.
