@@ -1,0 +1,26 @@
+Bucle Infinito:
+
+Un bucle infinito se repite indefinidamente.
+Ejemplo: while True: crea un bucle que nunca se detendrá.
+
+Ejemplo de Bucle Infinito:
+
+Código: while True: print("Estoy atrapado dentro de un bucle.")
+Este bucle imprimirá la cadena indefinidamente.
+
+Salida de un Bucle Infinito:
+
+En Python IDLE, puedes experimentar con bucles infinitos.
+Se puede interrumpir presionando Ctrl-C (o Ctrl-Break en algunas computadoras).
+
+Uso del Bucle en un Programa:
+
+Ejemplo de algoritmo para encontrar el número más grande.
+Utiliza un bucle while para ingresar y comparar números hasta que se ingrese -1.
+
+Ejemplo de Programa:
+
+Inicializa largest_number con un valor bajo.
+Usa un bucle while para comparar y actualizar el número más grande.
+Termina el bucle si se ingresa -1.
+Imprime el número más grande al final del programa.

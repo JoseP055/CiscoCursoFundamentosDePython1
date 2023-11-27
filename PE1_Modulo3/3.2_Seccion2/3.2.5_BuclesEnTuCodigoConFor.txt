@@ -1,0 +1,13 @@
+El bucle for en Python se utiliza para contar los "giros o vueltas" del bucle.
+
+A diferencia del bucle while, el bucle for se utiliza cuando se conoce la cantidad exacta de repeticiones.
+
+La palabra clave "for" inicia el bucle y se utiliza con una variable de control que cuenta automáticamente las iteraciones.
+
+La función range() genera una secuencia de valores que se asignan a la variable de control.
+
+Dentro del bucle for, la palabra clave "pass" representa una instrucción vacía, ya que el cuerpo del bucle requiere al menos una instrucción.
+
+La función range() puede tener uno o dos argumentos para especificar el valor inicial y final de la secuencia de enteros generada.
+
+Ejemplos de bucle for incluyen la impresión de valores en un rango y la utilización de dos argumentos en la función range().

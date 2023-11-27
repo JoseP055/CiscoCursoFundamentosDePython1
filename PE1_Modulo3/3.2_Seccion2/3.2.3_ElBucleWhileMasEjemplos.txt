@@ -1,0 +1,18 @@
+Ejemplo de Conteo de Números Pares e Impares:
+
+Inicia contadores para números pares e impares.
+Lee el primer número.
+Mientras el número no sea cero:
+Verifica si el número es impar.
+Incrementa el contador de impares o pares según corresponda.
+Lee el siguiente número.
+
+Imprime los resultados de los conteos de impares y pares.
+Simplificaciones Posibles:
+
+Se pueden usar expresiones más concisas como while number: y if number % 2:.
+Empleando una Variable counter para Salir del Bucle:
+
+Muestra un bucle que imprime un mensaje y el valor de counter cinco veces.
+
+La condición del bucle puede expresarse de manera más concisa como while counter:.

@@ -1,0 +1,13 @@
+En Python, la estructura de bucle "while" se representa con la sintaxis while conditional_expression:.
+
+El cuerpo del bucle, compuesto por una o varias instrucciones, se ejecuta repetidamente mientras la condición sea True.
+
+Si la condición es False desde el principio, el cuerpo del bucle no se ejecuta en absoluto.
+
+Se debe aplicar sangría adecuada a todas las instrucciones dentro del cuerpo del bucle, similar a las reglas de la instrucción "if".
+
+El cuerpo del bucle debe ser capaz de cambiar la condición para evitar ejecuciones infinitas.
+
+La ejecución del cuerpo del bucle cesa si la condición se vuelve False en algún punto durante la ejecución.
+
+El bucle "while" ofrece una manera de repetir acciones mientras se cumple una condición específica.
