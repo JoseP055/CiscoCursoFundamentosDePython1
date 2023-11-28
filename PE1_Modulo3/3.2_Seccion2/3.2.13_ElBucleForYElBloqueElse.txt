@@ -1,0 +1,7 @@
+En bucles for, la rama else se ejecuta al final del bucle, incluso si el bucle no ha sido interrumpido.
+
+La variable de control del bucle (en este caso, i) conserva su último valor después de que el bucle for ha terminado.
+
+Si el cuerpo del bucle no se ejecuta, la variable de control conserva su valor previo si existe antes del bucle.
+
+Se menciona que hay variables que pueden almacenar múltiples valores, anticipando información sobre tipos de variables más avanzados.

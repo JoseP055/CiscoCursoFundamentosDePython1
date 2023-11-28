@@ -1,0 +1,71 @@
+Tipos de Bucles:
+
+While: Ejecuta sentencias mientras una condición sea verdadera. Ejemplos:
+ 
+ 
+while True:
+    print("Atrapado en un bucle infinito.")
+ 
+
+counter = 5
+while counter > 2:
+    print(counter)
+    counter -= 1
+For: Itera sobre secuencias (listas, diccionarios, tuplas, conjuntos) o rangos.
+ 
+ 
+word = "Python"
+for letter in word:
+    print(letter, end="*")
+ 
+ 
+for i in range(1, 10):
+    if i % 2 == 0:
+        print(i)
+Sentencias Break y Continue:
+
+Break: Sale inmediatamente del bucle.
+ 
+ 
+text = "OpenEDG Python Institute"
+for letter in text:
+    if letter == "P":
+        break
+    print(letter, end="")
+Continue: Omite la iteración actual y continúa con la siguiente.
+ 
+ 
+text = "pyxpyxpyx"
+for letter in text:
+    if letter == "x":
+        continue
+    print(letter, end="")
+Cláusula Else en Bucles:
+
+Se ejecuta después del bucle si no termina con break.
+ 
+ 
+n = 0
+while n != 3:
+    print(n)
+    n += 1
+else:
+    print(n, "else")
+ 
+ 
+for i in range(0, 3):
+    print(i)
+else:
+    print(i, "else")
+Función Range():
+
+Genera una secuencia de números.
+Sintaxis: range(start, stop, step).
+ 
+ 
+for i in range(3):
+    print(i, end=" ")  # output: 0 1 2
+ 
+ 
+for i in range(6, 1, -2):
+    print(i, end=" ")  # output: 6, 4, 2

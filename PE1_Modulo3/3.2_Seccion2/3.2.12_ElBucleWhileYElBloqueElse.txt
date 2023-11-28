@@ -1,0 +1,9 @@
+Los bucles, tanto while como for, pueden tener una rama else, similar a los condicionales if.
+
+La rama else del bucle se ejecuta siempre una vez, sin importar si el bucle ha entrado o no en su cuerpo.
+
+En el ejemplo proporcionado, el bucle while tiene una rama else que imprime el número 5.
+
+Si el bucle no ejecuta su cuerpo (ya que la condición es False desde el principio), la rama else se ejecuta, como se evidencia en la salida del programa.
+
+La presencia de la rama else en un bucle puede depender de condiciones específicas y puede no ser comúnmente utilizada en la práctica.

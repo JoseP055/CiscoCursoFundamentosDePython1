@@ -1,0 +1,13 @@
+Instrucciones break y continue: Estas dos instrucciones en Python permiten al desarrollador controlar el flujo de ejecución en un bucle.
+
+Break: Se utiliza para salir inmediatamente del bucle, terminando su operación sin completar el turno actual.
+Después de un break, el programa continúa con la instrucción más cercana fuera del bucle.
+
+Continue: Se comporta como si el programa llegara repentinamente al final del cuerpo del bucle.
+Inicia el siguiente turno y prueba la expresión de condición de inmediato, omitiendo el resto del cuerpo actual.
+
+Ejemplo con break: Al ejecutar un bucle, si se encuentra una condición específica (en este caso, cuando se llega al número 2),
+se ejecuta la instrucción break, saliendo inmediatamente del bucle y continuando con la instrucción fuera del bucle.
+
+Ejemplo con continue: Similar al anterior, pero utilizando continue. Cuando se encuentra la condición (en este caso, el número 3),
+se ejecuta la instrucción continue, omitiendo el resto del cuerpo actual y pasando al siguiente turno del bucle.

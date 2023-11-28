@@ -1,0 +1,18 @@
+La función range() puede tomar tres argumentos: inicio, fin y paso.
+
+El primer argumento indica el inicio de la secuencia, el segundo el fin (no incluido en la secuencia), y el tercero es el paso o incremento entre los números.
+
+Si el conjunto generado por range() está vacío, el bucle no se ejecuta.
+
+El conjunto generado por range() debe estar en orden ascendente, y el segundo argumento debe ser mayor que el primero.
+
+El bucle for es útil para realizar tareas repetitivas y cuenta automáticamente los giros del bucle a través de una variable de control.
+
+Se puede utilizar para recorrer una secuencia de números generada por la función range() y realizar operaciones en cada iteración.
+
+Ejemplo práctico: un programa que imprime las primeras potencias de dos utilizando un bucle for y la función range().
+
+power = 1
+for expo in range(16):
+    print("2 a la potencia de", expo, "es", power)
+    power *= 2
