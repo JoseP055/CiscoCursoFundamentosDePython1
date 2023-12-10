@@ -1,0 +1,42 @@
+Contexto:
+
+Desarrollador de sistema operativo.
+Variable flag_register con información en bits.
+Tu bit marcado como x en el tercer lugar (bit 2).
+Operaciones con Bit Específico:
+
+Comprobar el estado de tu bit:
+x & 1 = x
+x & 0 = 0
+Crear una máscara para detectar el estado de tu bit:
+La máscara para el tercer bit: the_mask = 8
+Uso de Máscara para Comprobar el Estado:
+
+Ejemplo de código:
+
+if flag_register & the_mask:
+    # Mi bit se estableció en 1.
+else:
+    # Mi bit se restableció a 0.
+Reiniciar Tu Bit:
+
+Máscara para reiniciar el tercer bit: 11111111111111111111111111110111
+Restablecer el bit:
+flag_register = flag_register & ~the_mask
+flag_register &= ~the_mask
+Establecer Tu Bit:
+
+Uso de la propiedad de disyunción:
+x | 1 = 1
+x | 0 = x
+Configurar el bit:
+flag_register = flag_register | the_mask
+flag_register |= the_mask
+Negar Tu Bit:
+
+Uso de la propiedad del operador ~x:
+x ^ 1 = ~x
+x ^ 0 = x
+Negar el bit:
+flag_register = flag_register ^ the_mask
+flag_register ^= the_mask

@@ -1,0 +1,41 @@
+Operaciones de Shift en Python:
+
+Concepto de Shift:
+
+Desplazamiento de bits.
+Multiplicar por 10 es un desplazamiento a la izquierda; dividir por 10 es un desplazamiento a la derecha.
+Operadores de Shift en Python:
+
+Operadores: << (izquierda), >> (derecha).
+Ejemplos:
+
+valor << bits
+valor >> bits
+Funcionamiento de los Operadores de Shift:
+
+Desplazar un bit a la izquierda es como multiplicar por dos.
+Desplazar un bit a la derecha es como dividir por dos (pierde el bit más a la derecha).
+No es conmutativa.
+Ejemplo en Python:
+
+Código:
+
+print(17 >> 1)  # Resultado: 8
+print(17 << 2)  # Resultado: 68
+Prioridad de Operadores de Shift:
+
+Alta prioridad.
+Se muestra en la tabla de prioridades actualizada.
+Tabla de Prioridades Actualizada:
+
+Prioridad   Operador
+1           ~, +, -   (unario)
+2           **
+3           *, /, //, %
+4           +, -   (binario)
+5           <<, >>
+6           <, <=, >, >=
+7           ==, !=
+8           &
+9           |
+10          =, +=, -=, *=, /=, %=, &=, ^=, |=, >>=, <<=

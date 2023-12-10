@@ -1,0 +1,51 @@
+Operadores Bit a Bit:
+
+Cuatro operadores: & (conjunción), | (disyunción), ~ (negación), ^ (o exclusivo).
+Ejemplos:
+python
+Copy code
+A & B, A | B, A ^ B
+Operaciones Bit a Bit (&, |, y ^):
+
+Tabla de Verdad:
+css
+Copy code
+| Argumento A | Argumento B | A & B | A | B | A ^ B |
+|-------------|-------------|-------|-------|-------|
+| 0           | 0           | 0     | 0     | 0     |
+| 0           | 1           | 0     | 1     | 1     |
+| 1           | 0           | 0     | 1     | 1     |
+| 1           | 1           | 1     | 1     | 0     |
+Operación Bit a Bit (~):
+
+Tabla de Verdad:
+lua
+Copy code
+| Argumento | ~ Argumento |
+|-----------|-------------|
+| 0         | 1           |
+| 1         | 0           |
+Notas Importantes:
+
+Uso de & requiere exactamente dos 1 para dar 1 como resultado.
+Uso de | requiere al menos un 1 para dar 1 como resultado.
+Uso de ^ requiere exactamente un 1 para dar 1 como resultado.
+Los argumentos deben ser enteros, no flotantes.
+Diferencia entre Operadores Lógicos y de Bits:
+
+Operadores lógicos no operan a nivel de bits, solo les interesa el valor entero final.
+Operadores bit a bit operan con cada bit por separado.
+Ejemplo de Diferencia:
+
+Variables i y j con representación binaria.
+Ejecución de log = i and j (conjunción lógica).
+Ejecución de bit = i & j (conjunción a nivel de bits).
+Operadores de Negación:
+
+Lógico: logneg = not i (establece en False).
+Bit a bit: bitneg = ~i (resulta en -16 por reglas de complemento de dos).
+Operadores de Dos Argumentos en Forma Abreviada:
+
+Ejemplos:
+
+x &= y, x |= y, x ^= y

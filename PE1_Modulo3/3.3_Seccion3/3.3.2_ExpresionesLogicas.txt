@@ -1,0 +1,20 @@
+Se crea la variable var con valor 1. Se presentan dos conjuntos de condiciones equivalentes:
+
+Ejemplo 1:
+
+print(var > 0)
+print(not (var <= 0))
+Ejemplo 2:
+
+print(var != 0)
+print(not (var == 0))
+Se mencionan las leyes de De Morgan y se implementan en Python:
+
+La negación de una conjunción es la separación de las negaciones.
+
+not (p and q) == (not p) or (not q)
+La negación de una disyunción es la conjunción de las negaciones.
+
+not (p or q) == (not p) and (not q)
+Se destaca el uso de paréntesis para mejorar la legibilidad de las expresiones. Se advierte que ninguno de estos operadores de dos argumentos
+puede ser utilizado en la forma abreviada op=. Es importante recordar esta excepción.

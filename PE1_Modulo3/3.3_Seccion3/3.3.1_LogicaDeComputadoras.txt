@@ -1,0 +1,42 @@
+Las condiciones hasta ahora han sido simples.
+En la vida real, son más complejas.
+Conjunción (and):
+
+Ejemplo: Si hay tiempo libre y el clima es bueno, saldremos a caminar.
+Lógica: Conjunción.
+Operador: and.
+Ejemplo de código: counter > 0 and value == 100.
+Tabla de verdad:
+sql
+Copy code
+| Argumento A | Argumento B | A and B |
+|-------------|-------------|---------|
+| False       | False       | False   |
+| False       | True        | False   |
+| True        | False       | False   |
+| True        | True        | True    |
+Disyunción (or):
+
+Ejemplo: Si estás en el centro comercial o yo estoy en el centro comercial, uno de nosotros le comprará un regalo a mamá.
+Lógica: Disyunción.
+Operador: or.
+Tabla de verdad:
+sql
+Copy code
+| Argumento A | Argumento B | A or B  |
+|-------------|-------------|---------|
+| False       | False       | False   |
+| False       | True        | True    |
+| True        | False       | True    |
+| True        | True        | True    |
+Negación (not):
+
+Operador: not.
+Ejemplo de código: not argumento.
+Tabla de verdad:
+sql
+Copy code
+| Argumento | not Argumento |
+|-----------|---------------|
+| False     | True          |
+| True      | False         |
