@@ -1,0 +1,15 @@
+Eliminación de un Elemento de la Lista:
+
+La instrucción del numbers[1] eliminará el segundo elemento de la lista numbers (recuerda que los índices en Python comienzan en 0).
+Si la lista original es [111, 1, 7, 2, 1], después de esta operación, se verá así: [111, 7, 2, 1].
+Imprimiendo la Longitud y el Contenido de la Lista:
+
+print(len(numbers)) imprimirá la longitud de la lista después de la eliminación, que será 4.
+print(numbers) mostrará el contenido actualizado de la lista, es decir, [111, 7, 2, 1].
+Intentando Acceder a un Elemento Inexistente:
+
+Cuando intentas ejecutar print(numbers[4]), ocurrirá un error. Dado que el quinto elemento (índice 4) ya no existe en la lista,
+Python generará un error de "índice fuera de rango" (IndexError).
+Intentando Asignar a un Elemento Inexistente:
+
+Similarmente, numbers[4] = 1 también resultará en un error por la misma razón: estás intentando asignar un valor a una posición que no existe en la lista.

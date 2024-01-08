@@ -1,0 +1,28 @@
+Para cambiar el valor de un elemento seleccionado en una lista en Python, se utiliza la indexación.
+
+Asignar un Nuevo Valor a un Elemento de la Lista:
+
+Primero, creas una lista llamada numbers: numbers = [10, 5, 7, 2, 1].
+Para cambiar el primer elemento (índice 0) a 111, escribes: numbers[0] = 111.
+Al imprimir la lista ahora, mostrará Nuevo contenido de la lista: [111, 5, 7, 2, 1].
+Copiar el Valor de un Elemento a Otro:
+
+Comienzas de nuevo con la lista original: numbers = [10, 5, 7, 2, 1].
+Luego, cambias el primer elemento como antes: numbers[0] = 111.
+Ahora, para copiar el valor del quinto elemento (índice 4) al segundo elemento (índice 1), usas: numbers[1] = numbers[4].
+Esto cambia el segundo elemento (que era 5) al valor del quinto elemento (que es 1).
+Al imprimir la lista ahora, mostrará Nuevo contenido de la lista: [111, 1, 7, 2, 1].
+
+
+El índice es el valor dentro de los corchetes que se usa para seleccionar un elemento específico de la lista.
+La indexación es el proceso de acceder a elementos específicos de una lista utilizando sus índices.
+Los índices en Python comienzan desde 0, por lo que el primer elemento tiene el índice 0, el segundo tiene el índice 1, y así sucesivamente.
+Puedes usar cualquier expresión válida como un índice, siempre y cuando el resultado sea un entero dentro del rango de índices de la lista.
+Usar print() para mostrar el contenido de la lista después de cada cambio es una buena práctica para entender cómo evoluciona la lista con cada operación.
+
+
+
+
+
+
+

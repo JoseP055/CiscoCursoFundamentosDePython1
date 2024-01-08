@@ -1,0 +1,21 @@
+Definición y Características de un Método:
+
+Un método es similar a una función en cuanto a que realiza una tarea o calcula un valor.
+La diferencia principal es que un método está asociado con un objeto o una clase, mientras que una función es independiente de los objetos.
+Los métodos pueden modificar el estado de un objeto (sus propiedades o datos), lo que significa que pueden tener efectos secundarios, a diferencia de una función pura.
+
+Invocación de Métodos vs. Funciones:
+
+La invocación de un método generalmente requiere un objeto del cual se llama el método, como en objeto.metodo(argumentos).
+La invocación de una función es directa, como en funcion(argumentos).
+
+Métodos en Programación Orientada a Objetos:
+
+En la programación orientada a objetos, los métodos son fundamentales, ya que operan en los datos encapsulados dentro de los objetos.
+Los métodos pueden acceder y modificar el estado interno del objeto, proporcionando una manera controlada de interactuar con los datos del objeto.
+
+Importancia de los Métodos:
+
+Los métodos son esenciales para implementar comportamientos específicos de las clases y para gestionar y manipular los datos de los objetos
+de manera segura y controlada.
+Facilitan la lectura y mantenimiento del código al agrupar funcionalidades relacionadas dentro de las clases.

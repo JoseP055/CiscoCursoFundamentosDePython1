@@ -1,0 +1,13 @@
+En lugar de usar múltiples variables para almacenar y manejar grandes cantidades de números (como var1, var2, var3, etc.)
+Se puede utilizar una única variable que almacene una lista de valores. Esta técnica simplifica el manejo de grandes conjuntos de datos.
+
+Ejemplo:
+
+Crear una variable numbers que almacene una lista de números: numbers = [10, 5, 7, 2, 1].
+Esta lista numbers contiene cinco elementos (números), y se considera de longitud cinco.
+
+En Python, los elementos de una lista están indexados empezando desde cero.
+Cada elemento de la lista es accesible mediante su índice, lo que facilita la manipulación de datos específicos dentro de la lista.
+Las listas pueden contener elementos de diferentes tipos, incluyendo números enteros, flotantes y otras listas.
+Cada elemento en la lista es un "escalar" (un valor individual).
+Utilizar listas hace más eficiente la lectura, almacenamiento, procesamiento y visualización de grandes cantidades de datos.

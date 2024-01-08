@@ -1,0 +1,32 @@
+Método append():
+
+Agrega un nuevo elemento al final de la lista.
+Sintaxis: list.append(value)
+Ejemplo:
+python
+Copy code
+numbers = [1, 2, 3, 4, 5]
+numbers.append(6)
+Método insert():
+
+Agrega un nuevo elemento en una ubicación específica de la lista.
+Sintaxis: list.insert(location, value)
+El primer argumento (location) indica la posición donde se insertará el nuevo elemento.
+El segundo argumento (value) es el valor del nuevo elemento.
+Ejemplo:
+python
+Copy code
+numbers = [1, 2, 3, 4, 5]
+numbers.insert(1, 333)
+Uso de insert() para Crear una Lista en Orden Inverso:
+
+Has creado una lista vacía llamada my_list.
+Luego, utilizando un bucle for, has utilizado el método insert() para agregar números consecutivos al principio de la lista.
+El resultado es una lista que contiene una secuencia de números enteros del 1 al 5, pero en orden inverso debido al uso de insert(0, i + 1).
+Output Esperado:
+
+Después de ejecutar el bucle for con el método insert(), la lista se imprime.
+La salida esperada es una secuencia de números del 5 al 1.
+Resultado Final:
+
+Se espera que el resultado final sea una lista con los números [5, 4, 3, 2, 1] debido al uso de insert(0, i + 1).

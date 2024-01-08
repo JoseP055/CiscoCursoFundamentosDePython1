@@ -1,0 +1,16 @@
+Índices Negativos para Acceder a Elementos:
+
+En Python, los índices negativos son válidos y pueden ser utilizados para acceder a elementos de una lista.
+Un elemento con un índice de -1 representa el último elemento en la lista.
+Por ejemplo, numbers[-1] dará como resultado el último elemento de la lista.
+Un elemento con un índice de -2 es el elemento anterior al último en la lista.
+Por ejemplo, numbers[-2] dará como resultado el penúltimo elemento de la lista.
+
+Ejemplos Prácticos:
+
+Si ejecutas el código print(numbers[-1]), imprimirá el último elemento de la lista (1 en tu ejemplo).
+Similarmente, print(numbers[-2]) imprimirá el penúltimo elemento de la lista (2 en tu ejemplo).
+Limitaciones de Índices Negativos:
+
+Aunque los índices negativos pueden ser útiles, ten en cuenta que no debes intentar acceder más allá del primer elemento utilizando índices negativos.
+Por ejemplo, numbers[-4] se refiere al primer elemento y es el límite.

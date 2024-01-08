@@ -1,0 +1,16 @@
+Acceso Individual a los Elementos de la Lista:
+
+Puedes acceder a cada elemento de la lista individualmente utilizando su índice.
+Por ejemplo, print(numbers[0]) imprimirá el primer elemento de la lista numbers.
+Si has realizado las operaciones anteriores (cambiando el primer elemento a 111), esto imprimirá 111.
+Imprimir la Lista Completa:
+
+Para imprimir toda la lista, simplemente usas print(numbers).
+Esto mostrará todos los elementos de la lista en el formato [elemento1, elemento2, elemento3, ...].
+En tu ejemplo, imprimiría [111, 1, 7, 2, 1].
+Uso de la Función len():
+
+La función len() se utiliza para obtener la longitud de la lista, es decir, el número total de elementos que contiene.
+Por ejemplo, len(numbers) devolvería el número de elementos en la lista numbers.
+La longitud de la lista puede cambiar durante la ejecución del programa, ya que los elementos pueden agregarse o eliminarse.
+Si ejecutas el código con la lista numbers en su estado actual ([111, 1, 7, 2, 1]) y utilizas len(numbers), imprimirá 5, porque hay cinco elementos en la lista.

@@ -1,0 +1,27 @@
+Intercambio de Variables:
+
+Se muestra cómo intercambiar los valores de dos variables. Primero, se intenta un enfoque incorrecto que resulta en la pérdida de uno de los valores originales.
+Luego se muestra un método correcto utilizando una variable auxiliar para retener uno de los valores durante el intercambio.
+Finalmente, se presenta la sintaxis de Python para el intercambio directo: variable_1, variable_2 = variable_2, variable_1.
+Este es un método elegante y eficiente en Python.
+Revertir una Lista:
+
+Se aplica el concepto de intercambio de variables para revertir el orden de los elementos en una lista.
+Primero, se demuestra con una lista de cinco elementos, intercambiando elementos de manera manual.
+Luego, para manejar listas de cualquier tamaño, se introduce un bucle for que realiza el intercambio de forma automática.
+Ejemplo de Revertir una Lista con un Bucle for
+
+my_list = [10, 1, 8, 3, 5]
+length = len(my_list)
+
+for i in range(length // 2):
+    my_list[i], my_list[length - i - 1] = my_list[length - i - 1], my_list[i]
+
+print(my_list)
+Este código funciona tanto para listas con un número par como impar de elementos. En el caso de listas impares, el elemento central permanece en su posición.
+
+Aspectos Importantes
+Uso de length // 2: Esto asegura que el bucle se ejecute solo la mitad de las veces que hay elementos en la lista, lo cual es suficiente para invertir el orden.
+Índices en el Intercambio:
+my_list[i] se refiere al elemento actual desde el principio de la lista.
+my_list[length - i - 1] se refiere al elemento correspondiente desde el final de la lista.
