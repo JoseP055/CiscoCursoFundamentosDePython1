@@ -1,0 +1,15 @@
+Existen varios algoritmos de clasificación con diferentes velocidades y complejidades.
+El ordenamiento de burbuja, aunque simple, no es eficiente y rara vez se utiliza para listas extensas.
+
+Tipos de Orden:
+
+Ascendente: El primer elemento no es mayor que el segundo en pares adyacentes.
+Descendente: El primer elemento no es menor que el segundo en pares adyacentes.
+Proceso de Ordenamiento:
+
+Se compara cada par de elementos adyacentes en la lista.
+Si el primer elemento es mayor que el segundo, se intercambian; de lo contrario, no se hace nada.
+
+Lista inicial: 8, 10, 6, 2, 4.
+Primer paso: Intercambios para ordenar 8, 6, 2, 4, 10.
+Observación: El elemento más grande, 10, ya está en su posición final.

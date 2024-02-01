@@ -1,0 +1,41 @@
+Pregunta 1: ¿Cuál es el resultado del siguiente fragmento de código?
+
+
+lst = ["D", "F", "A", "Z"]
+lst.sort()
+ 
+print(lst)
+ 
+R/
+['A', 'D', 'F', 'Z']
+
+Pregunta 2: ¿Cuál es el resultado del siguiente fragmento de código?
+
+
+a = 3
+b = 1
+c = 2
+ 
+lst = [a, c, b]
+lst.sort()
+ 
+print(lst)
+ 
+R/
+[1, 2, 3]
+
+Pregunta 3: ¿Cuál es el resultado del siguiente fragmento de código?
+
+
+a = "A"
+b = "B"
+c = "C"
+d = " "
+ 
+lst = [a, b, c, d]
+lst.reverse()
+ 
+print(lst)
+ 
+R/
+[' ', 'C', 'B', 'A']
