@@ -1,0 +1,12 @@
+En Python, existen dos operadores poderosos para verificar la presencia de un valor en una lista:
+
+Operador in: Verifica si un elemento está presente en la lista. Devuelve True si el elemento está en la lista, de lo contrario, devuelve False.
+
+Operador not in: Comprueba si un elemento está ausente en la lista. Devuelve True si el elemento no está en la lista, de lo contrario, devuelve False.
+
+Ejemplo:
+
+my_list = [1, 2, 3, 4, 5]
+print(3 in my_list)      # Resultado: True
+print(6 not in my_list)  # Resultado: True
+print(2 in my_list)      # Resultado: False

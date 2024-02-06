@@ -1,0 +1,29 @@
+Las listas pueden contener elementos más complejos, como otras listas. Un ejemplo práctico es representar un tablero de ajedrez,
+donde cada fila del tablero es una lista.
+
+Ejemplo:
+row = []
+
+for i in range(8):
+    row.append(WHITE_PAWN)
+
+Este código crea una lista que representa la segunda fila del tablero de ajedrez, llena de peones blancos (suponiendo que WHITE_PAWN es
+un símbolo predefinido para un peón blanco).
+
+Además, se introduce la comprensión de lista, una forma más concisa de crear listas en Python. El ejemplo anterior se puede reescribir como:
+
+
+row = [WHITE_PAWN for i in range(8)]
+Esto genera la misma lista de peones blancos de manera más eficiente.
+
+Ejemplos de Comprensión de Lista:
+
+Generar cuadrados de números:
+squares = [x ** 2 for x in range(10)]
+
+Generar las primeras potencias de 2:
+twos = [2 ** i for i in range(8)]
+
+Filtrar números impares:
+odds = [x for x in squares if x % 2 != 0]
+Estos ejemplos ilustran cómo la comprensión de lista puede simplificar la creación y manipulación de listas en Python.

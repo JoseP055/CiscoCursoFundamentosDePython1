@@ -1,0 +1,43 @@
+En Python, se pueden usar listas bidimensionales y multidimensionales para representar datos organizados en una estructura de filas y columnas.
+Esto es útil en situaciones como el registro de datos meteorológicos, donde se pueden almacenar lecturas de temperatura en una matriz
+bidimensional.
+
+Ejemplo de Matriz Bidimensional:
+
+
+temps = [[0.0 for h in range(24)] for d in range(31)]
+Esto crea una matriz que representa las temperaturas medidas cada hora durante un mes (31 días y 24 horas).
+
+Operaciones con Matrices:
+
+Calcular la temperatura promedio al mediodía durante el mes:
+
+total = 0.0
+
+for day in temps:
+    total += day[11]
+
+average = total / 31
+Encontrar la temperatura más alta durante el mes:
+
+highest = -100.0
+
+for day in temps:
+    for temp in day:
+        if temp > highest:
+            highest = temp
+Contar los días con temperaturas al mediodía de al menos 20 ℃:
+
+hot_days = 0
+
+for day in temps:
+    if day[11] > 20.0:
+        hot_days += 1
+Matrices Tridimensionales:
+
+Se pueden utilizar matrices tridimensionales para representar información más compleja, como la ocupación de habitaciones en un hotel:
+
+
+rooms = [[[False for r in range(20)] for f in range(15)] for t in range(3)]
+Esto representa un hotel con tres edificios, 15 pisos en cada edificio y 20 habitaciones en cada piso. Se pueden realizar operaciones como 
+reservar habitaciones y verificar la disponibilidad.

@@ -1,0 +1,13 @@
+¡Bien hecho! Has llegado al final del Módulo 3 y has completado una meta importante en tu educación de programación en Python. He aquí un breve
+resumen de los objetivos que has cubierto y con lo que te has familiarizado en el Módulo 3:
+
+Valores booleanos para comparar diferentes valores y controlar las rutas de ejecución usando las instrucciones if e if-else;
+la utilización de bucles (while and for) y cómo controlar su comportamiento utilizando las instrucciones break y continue;
+la diferencia entre operaciones lógicas y bit a bit;
+el concepto de listas y procesamiento de listas, incluyendo la iteración proporcionada por el bucle for loop, y las rebanadas;
+la idea de los arreglos multidimensionales.
+Ahora estás listo para tomar la Prueba del Módulo, que te ayudará a evaluar lo que has aprendido hasta ahora.
+
+La siguiente prueba se basa en lo que acabas de aprender. Hay veinte preguntas en total y debes obtener al menos un 70% para aprobar.
+
+¡Buena suerte!

@@ -1,0 +1,24 @@
+En Python, las rebanadas (slices) ofrecen una manera poderosa de trabajar con listas, permitiendo la creación de copias nuevas o la obtención
+de partes específicas de una lista. A diferencia de la asignación directa, las rebanadas copian el contenido de la lista,
+no el nombre de la lista.
+
+Ejemplo:
+
+list_1 = [1]
+list_2 = list_1[:]  # Se crea una nueva lista (copia) usando la rebanada
+list_1[0] = 2
+print(list_2)  # Resultado: [1]
+
+---------------------------------------------------------------------------------------------------------------
+
+La sintaxis general para rebanar una lista es my_list[inicio:fin], donde inicio es el índice del primer elemento incluido y fin es el índice
+del primer elemento excluido. Es posible usar valores negativos tanto para inicio como para fin.
+
+Ejemplo de segmentación:
+
+my_list = [10, 8, 6, 4, 2]
+new_list = my_list[1:3]  # Se crea una nueva lista tomando elementos desde el índice 1 hasta el índice 2
+print(new_list)  # Resultado: [8, 6]
+
+
+Las rebanadas proporcionan flexibilidad al manipular listas y son una herramienta valiosa en Python.

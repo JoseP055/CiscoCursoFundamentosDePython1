@@ -1,0 +1,15 @@
+Cuando asignas una lista a otra en Python (por ejemplo, list_2 = list_1), ambas variables (list_1 y list_2)
+apuntan a la misma ubicación de memoria donde se almacena la lista. Esto significa que no se crea una nueva copia de la lista;
+en cambio, ambas variables son esencialmente alias que se refieren a la misma lista.
+
+En el ejemplo proporcionado, list_1 y list_2 no son listas independientes; son dos nombres que señalan la misma lista.
+Por lo tanto, si modificas la lista a través de uno de los nombres, esos cambios serán visibles a través del otro nombre.
+
+Ejemplo:
+
+
+list_1 = [1]          # Se crea una lista [1]
+list_2 = list_1       # list_2 ahora apunta a la misma lista que list_1
+list_1[0] = 2         # Modificamos el contenido de la lista a través de list_1
+
+print(list_2)          # Resultado: [2], ya que list_2 y list_1 comparten la misma lista en memoria

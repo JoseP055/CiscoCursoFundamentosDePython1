@@ -1,0 +1,34 @@
+La segmentación (slicing) en Python es una poderosa característica que permite crear copias y extraer partes específicas de una lista.
+Al utilizar my_list[start:end] en una lista, se obtiene una nueva lista que incluye elementos desde el índice start hasta el índice end - 1.
+Los índices negativos también pueden utilizarse para especificar posiciones desde el final de la lista.
+
+Ejemplo de segmentación:
+
+my_list = [10, 8, 6, 4, 2]
+new_list = my_list[1:-1]
+print(new_list)  # Resultado: [8, 6, 4]
+Si start está más allá de end, la rebanada estará vacía.
+
+Omitir start supone comenzar desde el elemento con índice 0: my_list[:end].
+
+Omitir end supone ir hasta el final de la lista: my_list[start:].
+
+Ejemplos de omitir start y end:
+
+my_list = [10, 8, 6, 4, 2]
+new_list_start = my_list[:3]  # Resultado: [10, 8, 6]
+new_list_end = my_list[3:]    # Resultado: [4, 2]
+Omitir ambos crea una copia completa de la lista: my_list[:].
+
+Eliminar elementos y rebanadas:
+
+my_list = [10, 8, 6, 4, 2]
+del my_list[1:3]  # Elimina elementos desde el índice 1 hasta el índice 2
+print(my_list)   # Resultado: [10, 4, 2]
+
+del my_list[:]    # Elimina todos los elementos de la lista
+print(my_list)   # Resultado: []
+
+
+Importante:
+La instrucción del también puede eliminar la lista misma, no solo su contenido. Al hacerlo, cualquier intento de usar la lista después de la eliminación generará un error.

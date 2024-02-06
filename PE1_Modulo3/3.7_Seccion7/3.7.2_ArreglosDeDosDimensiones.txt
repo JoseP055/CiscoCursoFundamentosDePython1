@@ -1,0 +1,24 @@
+Se puede representar un tablero de ajedrez utilizando una lista de listas, donde cada elemento de la lista interior representa un campo 
+en el tablero. El símbolo EMPTY puede utilizarse para designar campos vacíos.
+
+Creación del Tablero:
+
+board = [[EMPTY for i in range(8)] for j in range(8)]
+Esto utiliza listas de comprensión anidadas para crear un tablero de ajedrez vacío con 64 campos.
+
+Añadiendo Piezas al Tablero:
+
+board[0][0] = ROOK
+board[0][7] = ROOK
+board[7][0] = ROOK
+board[7][7] = ROOK
+board[4][2] = KNIGHT
+board[3][4] = PAWN
+
+Estos ejemplos ilustran cómo añadir piezas (en este caso, torres, un caballo y un peón) a posiciones específicas en el tablero.
+
+Acceso a los Campos del Tablero:
+
+El acceso a un campo específico en el tablero requiere dos índices, donde el primero selecciona la fila y el segundo selecciona la columna.
+
+Este enfoque proporciona una representación básica de un tablero de ajedrez en forma de matriz bidimensional.
