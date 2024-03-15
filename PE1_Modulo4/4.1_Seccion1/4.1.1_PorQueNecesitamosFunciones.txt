@@ -1,0 +1,17 @@
+Hasta ahora, hemos visto el uso de funciones predefinidas como print() y input() para simplificar
+tareas comunes en Python. Sin embargo, ahora aprenderemos a escribir nuestras propias funciones.
+La razón principal para escribir funciones es reducir la repetición de código y simplificar tareas complejas.
+
+Algunas razones para escribir funciones son:
+
+Reducción de repetición: Si un fragmento de código se repite varias veces en un programa, es mejor 
+aislarlo en una función para invocarlo desde donde se necesite.
+
+Manejo de código complejo: Cuando un algoritmo se vuelve demasiado complejo y difícil de entender, 
+dividirlo en funciones más pequeñas facilita su comprensión y prueba.
+
+Descomposición del problema: Dividir un problema grande en subproblemas más pequeños y codificar cada 
+uno como una función independiente simplifica el desarrollo y la depuración del programa.
+
+Al escribir funciones propias, buscamos dividir el código en piezas aisladas y comprensibles, lo que 
+facilita su mantenimiento y depuración.

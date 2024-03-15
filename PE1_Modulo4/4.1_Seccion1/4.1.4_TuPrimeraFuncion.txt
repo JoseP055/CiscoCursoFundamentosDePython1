@@ -1,0 +1,27 @@
+La definición de una función en Python sigue la siguiente estructura:
+
+def nombre_funcion():
+    # Cuerpo de la función
+
+
+Comienza con la palabra reservada "def".
+Luego sigue el nombre de la función (siguiendo las reglas de nomenclatura de variables).
+Después de los paréntesis de apertura y cierre, se colocan dos puntos para indicar el inicio del cuerpo 
+de la función.
+
+El cuerpo de la función contiene las instrucciones que se ejecutarán cada vez que la función sea    invocada.
+Es importante recordar que la función termina donde el anidamiento termina.
+Aquí hay un ejemplo simple de definición de una función llamada "message":
+
+
+def message():
+    print("Ingresar valor: ")
+
+
+Para invocar la función y ejecutar su código, se utiliza el nombre de la función seguido de paréntesis:
+
+message()
+
+
+Es crucial recordar que la definición de una función no ejecuta su código automáticamente; solo se 
+ejecuta cuando la función es invocada.

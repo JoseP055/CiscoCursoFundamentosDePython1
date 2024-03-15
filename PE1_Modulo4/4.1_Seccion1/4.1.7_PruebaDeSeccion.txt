@@ -1,0 +1,30 @@
+Pregunta 1: La función input() es un ejemplo de:
+
+a) una función definida por el usuario
+
+b) una función integrada
+
+R/
+b es una función integrada.
+
+Pregunta 2: ¿Qué es lo que ocurre cuando se invoca una función antes de ser definida? Ejemplo:
+
+
+hi()
+ 
+def hi():
+    print("hi!")
+ 
+R/
+Se genera una excepción (la excepción NameError).
+
+Pregunta 3: ¿Qué es lo que ocurrirá cuando se ejecute el siguiente código?
+
+
+def hi():
+    print("hi")
+ 
+hi(5)
+ 
+R/
+Se genera una excepción (la excepción TypeError) ‒ la función hi() no toma argumentos.

@@ -1,0 +1,40 @@
+1.Una función es un bloque de código que realiza una tarea especifica cuando la función es llamada (invocada).
+Las funciones son útiles para hacer que el código sea reutilizable, que este mejor organizado, y más legible.
+Las funciones contienen parámetros y pueden regresar valores.
+
+2. Existen al menos cuatro tipos de funciones básicas en Python:
+
+funciones integradas las cuales son partes importantes de Python (como lo es la función print()).
+Puedes ver una lista completa de las funciones integradas de Python en la siguiente liga https://docs.python.org/3/library/functions.html.
+
+también están las que se encuentran en módulos pre-instalados (se hablará acerca de ellas en el curso Fundamentos de Python 2)
+
+funciones definidas por el usuario las cuales son escritas por los programadores para los programadores 
+- puedes escribir tus propias funciones y utilizarlas libremente en tu código,
+
+las funciones lambda (aprenderás acerca de ellas en el curso Fundamentos de Python 2.)
+
+3. Las funciones propias se pueden definir utilizando la palabra reservada def y con la siguiente sintaxis:
+
+def your_function(optional parameters):
+    # el cuerpo de la función
+ 
+Se puede definir una función sin que haga uso de argumentos, por ejemplo:
+
+
+def message(): # definiendo una función
+    print("Hello") # cuerpo de la función
+ 
+message() # invocación de la función
+ 
+También es posible definir funciones con argumentos, como la siguiente que contiene un solo parámetro:
+
+
+def hello(name): # definiendo una función
+    print("Hello,", name) # cuerpo de la función
+ 
+ 
+name = input("Ingresa tu nombre: ")
+ 
+hello(name) # invocación de la función
+ 

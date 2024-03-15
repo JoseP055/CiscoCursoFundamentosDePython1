@@ -1,0 +1,10 @@
+Las funciones en Python provienen de tres lugares principales:
+
+Funciones integradas de Python: como print(), que son parte fundamental del lenguaje y siempre están 
+disponibles sin esfuerzo adicional del programador.
+
+Módulos preinstalados de Python: contienen funciones menos utilizadas que las integradas y requieren 
+algunos pasos adicionales para ser utilizadas, como la importación de módulos.
+
+Funciones personalizadas escritas por el programador: estas funciones son creadas por el programador 
+dentro del código y se pueden usar de forma libre según sea necesario.

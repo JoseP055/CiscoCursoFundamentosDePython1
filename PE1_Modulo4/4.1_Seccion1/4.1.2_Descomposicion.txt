@@ -1,0 +1,14 @@
+En proyectos de programación complejos, donde participa un equipo de desarrolladores, la colaboración 
+eficiente y la división del trabajo son fundamentales.
+
+No es práctico ni eficiente que varios programadores escriban el mismo código simultáneamente, por lo 
+que se debe dividir el trabajo de manera que cada miembro del equipo tenga un conjunto claro de 
+funciones para desarrollar.
+
+La descomposición del problema en funciones claras y bien definidas permite compartir la responsabilidad 
+y facilita la colaboración entre los desarrolladores.
+
+Cada desarrollador se encarga de escribir un conjunto específico de funciones que se combinan en módulos 
+para formar el producto final.
+
+Esta descomposición del trabajo y la implementación de funciones separadas empacadas en módulos permiten una gestión más eficiente y escalable de proyectos de desarrollo de software.

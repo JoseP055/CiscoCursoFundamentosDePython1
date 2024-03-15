@@ -1,0 +1,29 @@
+Cuando se invoca una función en Python, el proceso completo implica los siguientes pasos:
+
+Python recuerda el lugar donde se invoca la función y salta hacia dentro de la función invocada.
+El cuerpo de la función es ejecutado.
+Al llegar al final de la función, Python regresa al lugar inmediato después de donde ocurrió la 
+invocación.
+
+Es crucial recordar dos consideraciones importantes al trabajar con funciones en Python:
+
+No se debe invocar una función antes de que se haya definido. Python lee el código de arriba hacia 
+abajo, por lo que la función debe estar definida antes de ser invocada.
+
+Una función y una variable no pueden compartir el mismo nombre. Asignar un valor a un nombre de función 
+causa que Python olvide su rol anterior como función.
+
+Un ejemplo incorrecto sería mover la definición de la función después de su invocación, lo cual 
+resultaría en un error "NameError: name 'message' is not defined". Python no puede encontrar la función 
+si se invoca antes de ser definida correctamente.
+
+Por otro lado, es posible mezclar el código con funciones en cualquier lugar dentro del archivo fuente, siempre y cuando la función esté definida antes de ser invocada. Por ejemplo:
+
+print("Comienza aqui.")
+
+def message():
+    print("Ingresar valor: ")
+
+message()
+
+print("Termina aqui.")
