@@ -1,0 +1,22 @@
+El paso de parámetros posicionales es una técnica que asigna cada argumento a su parámetro 
+correspondiente en función del orden en que son proporcionados.
+Se utiliza de manera intuitiva en situaciones comunes, como mencionar primero el nombre y luego el 
+apellido.
+Sin embargo, puede variar según las convenciones culturales, como en el caso de Hungría, donde se 
+menciona primero el apellido y luego el nombre.
+
+
+def introduction(first_name, last_name):
+    print("Hola, mi nombre es", first_name, last_name)
+
+introduction("Skywalker", "Luke")
+introduction("Quick", "Jesse")
+introduction("Kent", "Clark")
+
+La salida de este código será:
+
+Hola, mi nombre es Skywalker Luke
+Hola, mi nombre es Quick Jesse
+Hola, mi nombre es Kent Clark
+
+Este cambio en el orden de los argumentos afecta directamente la salida de la función, mostrando primero el apellido y luego el nombre.

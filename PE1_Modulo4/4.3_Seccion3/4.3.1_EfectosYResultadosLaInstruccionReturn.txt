@@ -1,0 +1,24 @@
+Las funciones pueden tener efectos, como producir texto en la consola, pero también pueden devolver 
+valores utilizando la instrucción return.
+return es una palabra clave reservada de Python que indica la finalización de la función y puede 
+devolver un valor.
+Hay dos variantes de return:
+return sin una expresión: termina la función y puede depender de condiciones para su ejecución.
+Ejemplo:
+
+def happy_new_year(wishes=True):
+    if not wishes:
+        return
+    print("¡Feliz año nuevo!")
+
+return con una expresión: termina la función y devuelve el valor de la expresión.
+
+Ejemplo:
+
+def boring_function():
+    return 123
+
+El valor devuelto por return puede ser asignado a una variable o ignorado, aunque se recomienda usarlo 
+si la función tiene un resultado útil.
+Ignorar el resultado devuelto por una función puede hacer que el valor se pierda sin rastro.
+Es importante usar la segunda variante de return si la función intenta devolver un resultado útil.

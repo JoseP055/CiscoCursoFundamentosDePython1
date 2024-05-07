@@ -1,0 +1,32 @@
+Python ofrece otra manera de pasar argumentos, donde el significado del argumento está definido por su 
+nombre, no su posición - a esto se le denomina paso de argumentos con palabra clave.
+
+Observa el siguiente código:
+
+
+def introduction(first_name, last_name):
+    print("Hola, mi nombre es", first_name, last_name)
+ 
+introduction(first_name = "James", last_name = "Bond")
+introduction(last_name = "Skywalker", first_name = "Luke")
+ 
+El concepto es claro - los valores pasados a los parámetros son precedidos por el nombre del parámetro 
+al que se le va a pasar el valor, seguido por el signo de =.
+
+La posición no es relevante aquí - cada argumento conoce su destino con base en el nombre utilizado.
+
+Debes de poder predecir la salida. Ejecuta el código y verifica tu respuesta.
+
+Por supuesto que no se debe de utilizar el nombre de un parámetro que no existe.
+
+El siguiente código provocará un error de ejecución:
+
+
+def introduction(first_name, last_name):
+    print("Hola, mi nombre es", first_name, last_name)
+ 
+introduction(surname="Skywalker", first_name="Luke")
+ 
+Esto es lo que Python arrojará:
+
+TypeError: introduction() got an unexpected keyword argument 'surname'

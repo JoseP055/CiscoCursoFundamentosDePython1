@@ -1,0 +1,12 @@
+Los parámetros en una función son variables que existen solo dentro de la función y se utilizan para 
+recibir valores que pueden modificar el comportamiento de la función.
+Se definen los parámetros entre los paréntesis de la función, después del nombre de la función y la 
+palabra reservada def.
+Los argumentos son los valores que se pasan a los parámetros cuando se invoca la función desde fuera de 
+ella.
+Se debe proporcionar el mismo número de argumentos que haya parámetros definidos en la función, de lo 
+contrario, se producirá un error.
+Es posible tener una variable con el mismo nombre que un parámetro de función, pero el parámetro 
+sombreará la variable solo dentro de la función donde está definido.
+Una función puede tener múltiples parámetros, cada uno con un propósito específico. Cuantos más 
+parámetros, más complejo puede ser recordar su uso correcto.

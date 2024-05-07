@@ -1,0 +1,28 @@
+1. Paso de información a las funciones mediante parámetros:
+
+Ejemplo de función con un parámetro: def hi(name): print("Hola,", name)
+Ejemplo de función con dos parámetros: def hi_all(name_1, name_2): print("Hola,", name_2); print("Hola", name_1)
+
+Ejemplo de función con tres parámetros:
+def address(street, city, postal_code): print("Tu dirección es:", street,"St.,", city, postal_code)
+
+2. Técnicas para pasar argumentos a funciones:
+
+Paso de argumentos posicionales:
+El orden de los parámetros es relevante.
+Ejemplo: def subtra(a, b): print(a - b)
+
+Paso de argumentos con palabras clave:
+El orden de los argumentos es irrelevante.
+Ejemplo: subtra(a=5, b=2)
+
+Mezcla de argumentos posicionales y con palabras clave:
+Ejemplo: subtra(5, b=2)
+Es importante seguir el orden: primero los argumentos posicionales y luego los de palabras clave.
+
+3. Asignación de valores predefinidos a los argumentos:
+
+Se puede usar palabras clave para asignar valores predefinidos a los argumentos.
+
+Ejemplo: def name(first_name, last_name="Pérez"): print(first_name, last_name)
+Uso: name("Andy") (salida: "Andy Pérez"), name("Bety", "Rodríguez") (salida: "Bety Rodríguez")

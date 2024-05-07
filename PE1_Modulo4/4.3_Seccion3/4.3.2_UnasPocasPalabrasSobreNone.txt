@@ -1,0 +1,20 @@
+None es un valor especial en Python que representa la ausencia de valor o la falta de un valor razonable.
+
+No se debe utilizar None en expresiones donde se espera un valor numérico u otro tipo de dato, ya que 
+puede provocar errores de tipo, como en print(None + 2) que dará como resultado un TypeError.
+
+None se puede utilizar de manera segura en dos situaciones:
+
+Asignado a una variable o devuelto como resultado de una función.
+Comparado con una variable para verificar su estado interno.
+Por ejemplo:
+
+value = None
+if value is None:
+    print("La variable no contiene ningún valor")
+
+Si una función no devuelve explícitamente un valor utilizando return, se asume que devuelve implícitamente None.
+
+Es importante estar consciente de que una función que devuelve None puede indicar un error o un
+comportamiento no deseado, como en el caso de la función strange_function que devuelve None cuando su  
+argumento no es par.
