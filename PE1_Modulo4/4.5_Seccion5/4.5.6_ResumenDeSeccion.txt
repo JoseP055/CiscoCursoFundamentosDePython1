@@ -1,0 +1,17 @@
+Recursividad: Una función puede invocar a otras funciones o a sí misma.
+Cuando se invoca a sí misma, se denomina recursividad, y debe tener una condición de terminación para evitar llamadas infinitas.
+
+Ventajas y desventajas: Las funciones recursivas permiten escribir código limpio y dividido en partes más pequeñas, pero pueden ser ineficientes y consumir mucha memoria.
+Es importante tener cuidado para evitar errores que causen bucles infinitos.
+
+Ejemplo: La función factorial es un ejemplo clásico de recursividad. Su implementación se basa en una condición base y en llamar a sí misma con un valor decreciente:
+
+python
+
+def factorial(n):
+    if n == 1:  # Condición de terminación
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+print(factorial(4))  # Resultado: 24
