@@ -7,7 +7,7 @@ def factorial(n):
  
 print(factorial(4))
  
-Ocultar
+R/
 La función no tiene una condición de terminación, por lo tanto Python arrojara una excepción (RecursionError: maximum recursion depth exceeded)
 
 Pregunta 2: ¿Cuál es la salida del siguiente fragmento de código?
@@ -22,5 +22,5 @@ def fun(a):
  
 print(fun(25))
  
-Ocultar
+R/
 56
