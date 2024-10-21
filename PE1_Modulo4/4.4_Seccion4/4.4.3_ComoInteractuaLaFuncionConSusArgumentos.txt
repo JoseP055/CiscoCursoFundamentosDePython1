@@ -1,0 +1,8 @@
+Cuando se pasa un valor escalar (como un entero) a una función, la función recibe una copia del valor, no el argumento en sí.
+Los cambios dentro de la función no afectan al valor original fuera de ella.
+
+Sin embargo, cuando se pasa una lista, la función no recibe una copia de la lista, sino una referencia a ella.
+Esto significa que cualquier cambio en los elementos de la lista (como eliminar o modificar elementos) afecta la lista original fuera de la función.
+
+Cambiar el valor completo del parámetro (asignándole una nueva lista) no afecta la lista original,
+pero si se modifica la lista a través del parámetro (como eliminar un elemento), el cambio se refleja fuera de la función.

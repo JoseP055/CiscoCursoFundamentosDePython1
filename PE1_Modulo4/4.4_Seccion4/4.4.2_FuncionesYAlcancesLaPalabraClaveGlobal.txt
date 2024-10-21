@@ -1,0 +1,9 @@
+Las funciones, por defecto, no pueden modificar variables definidas fuera de ellas.
+
+Para modificar una variable externa dentro de una función, se usa la palabra clave global.
+
+Al usar global, se le dice a Python que utilice la variable externa en lugar de crear una nueva local.
+
+Esto permite tanto leer como modificar variables globales dentro de funciones.
+
+Ejemplo: usando global en una función permite que los cambios en la variable externa se reflejen fuera de la función.

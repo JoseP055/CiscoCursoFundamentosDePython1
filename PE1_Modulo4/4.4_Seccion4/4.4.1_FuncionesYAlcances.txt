@@ -1,0 +1,11 @@
+El alcance de una variable es la parte del código donde es reconocida.
+
+Los parámetros de una función solo son accesibles dentro de esa función.
+
+Las variables definidas fuera de una función son accesibles dentro de la función.
+
+Si dentro de la función se define una nueva variable con el mismo nombre, la externa queda "sombreada" y no es accesible.
+
+La asignación de valores dentro de una función crea una nueva variable local, independiente de las externas.
+
+Las variables externas solo pueden ser leídas dentro de la función a menos que sean "sombreadas".

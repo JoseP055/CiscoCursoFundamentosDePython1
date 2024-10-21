@@ -1,0 +1,70 @@
+Pregunta 1: ¿Cuál es la salida del siguiente fragmento de código?
+
+
+def message():
+    alt = 1
+    print("¡Hola, mundo!")
+ 
+ 
+print(alt)
+ 
+R/
+Se arrojará una excepción NameError:
+
+NameError: name 'alt' is not defined
+
+Pregunta 2: ¿Cuál es la salida del siguiente fragmento de código?
+
+
+a = 1
+ 
+ 
+def fun():
+    a = 2
+    print(a)
+ 
+ 
+fun()
+print(a)
+ 
+R/
+2
+1
+Pregunta 3: ¿Cuál es la salida del siguiente fragmento de código?
+
+
+a = 1
+ 
+ 
+def fun():
+    global a
+    a = 2
+    print(a)
+ 
+ 
+fun()
+a = 3
+print(a)
+ 
+R/
+2
+3
+Pregunta 4: ¿Cuál es la salida del siguiente fragmento de código?
+
+
+a = 1
+ 
+ 
+def fun():
+    global a
+    a = 2
+    print(a)
+ 
+ 
+a = 3
+fun()
+print(a)
+ 
+R/
+2
+2
